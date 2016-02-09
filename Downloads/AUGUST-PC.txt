@@ -1,0 +1,3168 @@
+Summary
+		Operating System
+			Windows 10 Home 64-bit
+		CPU
+			AMD A10-7700K	67 °C
+			Kaveri 28nm Technology
+		RAM
+			16.0GB Dual-Channel DDR3 @ 798MHz (9-10-9-26)
+		Motherboard
+			Gigabyte Technology Co. Ltd. F2A88X-D3H (P0)	32 °C
+		Graphics
+			VS248 (1920x1080@60Hz)
+			L1951p Wide (1440x900@60Hz)
+			1024MB ATI AMD Radeon R7 Graphics (Gigabyte)	16 °C
+			2048MB ATI AMD Radeon R7 Graphics + R7 200 Dual Graphics (MSI)	30 °C
+			CrossFire Disabled
+		Storage
+			465GB TOSHIBA DT01ACA050 (SATA)	35 °C
+			111GB KINGSTON SV300S37A120G (SSD)	28 °C
+			74GB Seagate ST380815AS (SATA)	36 °C
+			465GB TOSHIBA MQ01ABD050 (SATA)	28 °C
+		Optical Drives
+			ASUS DRW-24B1ST a
+		Audio
+			Realtek High Definition Audio
+Operating System
+	Windows 10 Home 64-bit
+	Computer type: Desktop
+	Installation Date: 1/8/2016 3:21:27 PM
+	Serial Number: T49TD-6VFBW-VV7HY-B2PXY-MY47H
+		Windows Security Center
+			User Account Control (UAC)	Enabled
+			Notify level	2 - Default
+			Firewall	Enabled
+		Windows Update
+			AutoUpdate	Not configured
+		Windows Defender
+			Windows Defender	Enabled
+		Antivirus
+			Antivirus	Enabled
+			Display Name	Windows Defender
+			Virus Signature Database	Up to date
+		.NET Frameworks installed
+			v4.6 Full
+			v4.6 Client
+			v3.5 SP1
+			v3.0 SP2
+			v2.0 SP2
+		Internet Explorer
+			Version	11.63.10586.0
+		PowerShell
+			Version	5.0.10586.0
+		Java
+				Java Runtime Environment
+					Path	C:\Program Files\Java\jre1.8.0_66\bin\java.exe
+					Version	8.0
+					Update	66
+					Build	18
+		Environment Variables
+			USERPROFILE	C:\Users\augus
+			SystemRoot	C:\Windows
+				User Variables
+					PATH	F:\fahclient
+					PSMODULEPATH	%PSMODULEPATH%;C:\Users\augus\AppData\Local\Apps\Windows Installer PowerShell Module\
+					TEMP	C:\Users\augus\AppData\Local\Temp
+					TMP	C:\Users\augus\AppData\Local\Temp
+				Machine Variables
+					ComSpec	C:\Windows\system32\cmd.exe
+					NUMBER_OF_PROCESSORS	4
+					OS	Windows_NT
+					Path	C:\ProgramData\Oracle\Java\javapath
+					C:\Windows\system32
+					C:\Windows
+					C:\Windows\System32\Wbem
+					C:\Windows\System32\WindowsPowerShell\v1.0\
+					C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static
+					C:\Program Files (x86)\AMD\ATI.ACE\Core-Static
+					C:\Program Files (x86)\Skype\Phone\
+					C:\Users\augus\.dnx\bin
+					C:\Program Files\Microsoft DNX\Dnvm\
+					C:\Program Files\Microsoft\Web Platform Installer\
+					PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+					PROCESSOR_ARCHITECTURE	AMD64
+					PROCESSOR_IDENTIFIER	AMD64 Family 21 Model 48 Stepping 1, AuthenticAMD
+					PROCESSOR_LEVEL	21
+					PROCESSOR_REVISION	3001
+					PSModulePath	%ProgramFiles%\WindowsPowerShell\Modules
+					C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+					TEMP	C:\Windows\TEMP
+					TMP	C:\Windows\TEMP
+					USERNAME	SYSTEM
+					VS140COMNTOOLS	C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\
+					windir	C:\Windows
+		Power Profile
+			Active power scheme	High performance
+			Hibernation	Enabled
+			Turn Off Monitor after: (On AC Power)	15 min
+			Turn Off Hard Disk after: (On AC Power)	999 min
+			Suspend after: (On AC Power)	Never
+			Screen saver	Disabled
+		Uptime
+				Current Session
+					Current Time	1/15/2016 8:38:00 PM
+					Current Uptime	108,494 sec (1 d, 06 h, 08 m, 14 s)
+					Last Boot Time	1/14/2016 2:29:46 PM
+		Services
+			Running	ACP User Service
+			Running	AMD External Events Utility
+			Running	AMD FUEL Service
+			Running	Application Information
+			Running	Background Intelligent Transfer Service
+			Running	Background Tasks Infrastructure Service
+			Running	Base Filtering Engine
+			Running	Certificate Propagation
+			Running	CNG Key Isolation
+			Running	COM+ Event System
+			Running	Computer Browser
+			Running	Connected User Experiences and Telemetry
+			Running	CoreMessaging
+			Running	Credential Manager
+			Running	Cryptographic Services
+			Running	Data Sharing Service
+			Running	DCOM Server Process Launcher
+			Running	Device Association Service
+			Running	DHCP Client
+			Running	Diagnostic Policy Service
+			Running	Diagnostic Service Host
+			Running	Diagnostic System Host
+			Running	Distributed Link Tracking Client
+			Running	DNS Client
+			Running	Function Discovery Provider Host
+			Running	Function Discovery Resource Publication
+			Running	GCloud
+			Running	Geolocation Service
+			Running	GIGABYTE Adjust
+			Running	HomeGroup Listener
+			Running	HomeGroup Provider
+			Running	Human Interface Device Service
+			Running	IP Helper
+			Running	IPsec Policy Agent
+			Running	Local Session Manager
+			Running	Logitech Gaming Registry Service
+			Running	Macrium Reflect Image Mounting Service
+			Running	Microsoft Account Sign-in Assistant
+			Running	Network Connected Devices Auto-Setup
+			Running	Network Connection Broker
+			Running	Network Connections
+			Running	Network List Service
+			Running	Network Location Awareness
+			Running	Network Store Interface Service
+			Running	Peer Name Resolution Protocol
+			Running	Peer Networking Grouping
+			Running	Peer Networking Identity Manager
+			Running	Plug and Play
+			Running	PnkBstrA
+			Running	Power
+			Running	Print Spooler
+			Running	Program Compatibility Assistant Service
+			Running	Remote Desktop Configuration
+			Running	Remote Desktop Services
+			Running	Remote Desktop Services UserMode Port Redirector
+			Running	Remote Procedure Call (RPC)
+			Running	RPC Endpoint Mapper
+			Running	SCP DSx Service
+			Running	Security Accounts Manager
+			Running	Security Center
+			Running	Server
+			Running	Shell Hardware Detection
+			Running	SSDP Discovery
+			Running	State Repository Service
+			Running	Steam Client Service
+			Running	Superfetch
+			Running	System Event Notification Service
+			Running	System Events Broker
+			Running	Task Scheduler
+			Running	TCP/IP NetBIOS Helper
+			Running	TeamViewer 11
+			Running	Themes
+			Running	Tile Data model server
+			Running	Time Broker
+			Running	UPnP Device Host
+			Running	User Manager
+			Running	User Profile Service
+			Running	Visual Studio Standard Collector Service
+			Running	VMware Authorization Service
+			Running	VMware DHCP Service
+			Running	VMware NAT Service
+			Running	VMware USB Arbitration Service
+			Running	VMware Workstation Server
+			Running	Windows Audio
+			Running	Windows Audio Endpoint Builder
+			Running	Windows Connection Manager
+			Running	Windows Defender Network Inspection Service
+			Running	Windows Defender Service
+			Running	Windows Driver Foundation - User-mode Driver Framework
+			Running	Windows Event Log
+			Running	Windows Firewall
+			Running	Windows Font Cache Service
+			Running	Windows License Manager Service
+			Running	Windows Management Instrumentation
+			Running	Windows Media Player Network Sharing Service
+			Running	Windows Search
+			Running	Windows Update
+			Running	WinHTTP Web Proxy Auto-Discovery Service
+			Running	WMI Performance Adapter
+			Running	Workstation
+			Stopped	ActiveX Installer (AxInstSV)
+			Stopped	AllJoyn Router Service
+			Stopped	App Readiness
+			Stopped	AppleChargerSrv
+			Stopped	Application Identity
+			Stopped	Application Layer Gateway Service
+			Stopped	AppX Deployment Service (AppXSVC)
+			Stopped	ASP.NET State Service
+			Stopped	Auto Time Zone Updater
+			Stopped	BitLocker Drive Encryption Service
+			Stopped	Block Level Backup Engine Service
+			Stopped	Bluetooth Handsfree Service
+			Stopped	Bluetooth Support Service
+			Stopped	Client License Service (ClipSVC)
+			Stopped	COM+ System Application
+			Stopped	Connected Device Platform Service
+			Stopped	DataCollectionPublishingService
+			Stopped	Delivery Optimization
+			Stopped	Device Install Service
+			Stopped	Device Management Enrollment Service
+			Stopped	Device Setup Manager
+			Stopped	DevQuery Background Discovery Broker
+			Stopped	Distributed Transaction Coordinator
+			Stopped	dmwappushsvc
+			Stopped	Downloaded Maps Manager
+			Stopped	embeddedmode
+			Stopped	Encrypting File System (EFS)
+			Stopped	Enterprise App Management Service
+			Stopped	Extensible Authentication Protocol
+			Stopped	Fax
+			Stopped	File History Service
+			Stopped	Google Update Service (gupdate)
+			Stopped	Google Update Service (gupdatem)
+			Stopped	Group Policy Client
+			Stopped	HwmRecordService
+			Stopped	Hyper-V Data Exchange Service
+			Stopped	Hyper-V Guest Service Interface
+			Stopped	Hyper-V Guest Shutdown Service
+			Stopped	Hyper-V Heartbeat Service
+			Stopped	Hyper-V Remote Desktop Virtualization Service
+			Stopped	Hyper-V Time Synchronization Service
+			Stopped	Hyper-V VM Session Service
+			Stopped	Hyper-V Volume Shadow Copy Requestor
+			Stopped	IKE and AuthIP IPsec Keying Modules
+			Stopped	Intel Integrated Clock Controller Service - Intel ICCS
+			Stopped	Interactive Services Detection
+			Stopped	Internet Connection Sharing (ICS)
+			Stopped	Internet Explorer ETW Collector Service
+			Stopped	KtmRm for Distributed Transaction Coordinator
+			Stopped	Link-Layer Topology Discovery Mapper
+			Stopped	Microsoft Diagnostics Hub Standard Collector Service
+			Stopped	Microsoft iSCSI Initiator Service
+			Stopped	Microsoft Passport
+			Stopped	Microsoft Passport Container
+			Stopped	Microsoft Software Shadow Copy Provider
+			Stopped	Microsoft Storage Spaces SMP
+			Stopped	Microsoft Windows SMS Router Service.
+			Stopped	Net.Tcp Port Sharing Service
+			Stopped	Netlogon
+			Stopped	Network Connectivity Assistant
+			Stopped	Network Setup Service
+			Stopped	Optimize drives
+			Stopped	Origin Client Service
+			Stopped	Performance Counter DLL Host
+			Stopped	Performance Logs & Alerts
+			Stopped	Phone Service
+			Stopped	PNRP Machine Name Publication Service
+			Stopped	Portable Device Enumerator Service
+			Stopped	Printer Extensions and Notifications
+			Stopped	Problem Reports and Solutions Control Panel Support
+			Stopped	Quality Windows Audio Video Experience
+			Stopped	Remote Access Auto Connection Manager
+			Stopped	Remote Access Connection Manager
+			Stopped	Remote Procedure Call (RPC) Locator
+			Stopped	Remote Registry
+			Stopped	Retail Demo Service
+			Stopped	Routing and Remote Access
+			Stopped	Secondary Logon
+			Stopped	Secure Socket Tunneling Protocol Service
+			Stopped	Sensor Data Service
+			Stopped	Sensor Monitoring Service
+			Stopped	Sensor Service
+			Stopped	Skype Updater
+			Stopped	Smart Card
+			Stopped	Smart Card Device Enumeration Service
+			Stopped	Smart Card Removal Policy
+			Stopped	SNMP Trap
+			Stopped	Software Protection
+			Stopped	Spot Verifier
+			Stopped	Still Image Acquisition Events
+			Stopped	Storage Service
+			Stopped	Storage Tiers Management
+			Stopped	Telephony
+			Stopped	Touch Keyboard and Handwriting Panel Service
+			Stopped	Update Orchestrator Service
+			Stopped	updater
+			Stopped	Virtual Disk
+			Stopped	Volume Shadow Copy
+			Stopped	WalletService
+			Stopped	WebClient
+			Stopped	Windows Backup
+			Stopped	Windows Biometric Service
+			Stopped	Windows Color System
+			Stopped	Windows Connect Now - Config Registrar
+			Stopped	Windows Encryption Provider Host Service
+			Stopped	Windows Error Reporting Service
+			Stopped	Windows Event Collector
+			Stopped	Windows Image Acquisition (WIA)
+			Stopped	Windows Installer
+			Stopped	Windows Mobile Hotspot Service
+			Stopped	Windows Modules Installer
+			Stopped	Windows Presentation Foundation Font Cache 3.0.0.0
+			Stopped	Windows Push Notifications Service
+			Stopped	Windows Remote Management (WS-Management)
+			Stopped	Windows Store Service (WSService)
+			Stopped	Windows Time
+			Stopped	Wired AutoConfig
+			Stopped	WLAN AutoConfig
+			Stopped	Work Folders
+			Stopped	WWAN AutoConfig
+			Stopped	Xbox Live Auth Manager
+			Stopped	Xbox Live Game Save
+			Stopped	Xbox Live Networking Service
+		TimeZone
+			TimeZone	GMT -5:00 Hours
+			Language	English (United States)
+			Location	United States
+			Format	English (United States)
+			Currency	$
+			Date Format	M/d/yyyy
+			Time Format	h:mm:ss tt
+		Scheduler
+			1/15/2016 9:32 PM;	GoogleUpdateTaskMachineUA
+			1/15/2016 11:20 PM;	update-S-1-5-21-2673266964-3355565885-347164143-1001
+			1/16/2016 12:17 AM;	update-sys
+			1/16/2016 5:32 PM;	GoogleUpdateTaskMachineCore
+			1/17/2016 10:00 AM;	updater
+			CrystalDiskInfo
+		Hotfixes
+				Installed
+						1/15/2016  Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2 x64 Edition - January 2016 (KB890830)
+							After the download, this tool runs one time to check your computer
+							for infection by specific, prevalent malicious software (including
+							Blaster, Sasser, and Mydoom) and helps remove any infection that
+							is found. If an infection is found, the tool will display a status
+							report the next time that you start your computer. A new version
+							of the tool will be offered every month. If you want to manually
+							run the tool on your computer, you can download a copy from the
+							Microsoft Download Center, or you can run an online version from
+							microsoft.com. This tool is not a replacement for an antivirus
+							product. To help protect your computer, you should use an antivirus
+							product.
+						1/15/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.3072.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/14/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2952.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/13/2016  Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB3124263)
+							A security issue has been identified in a Microsoft software
+							product that could affect your system. You can help protect your
+							system by installing this update from Microsoft. For a complete
+							listing of the issues that are included in this update, see the
+							associated Microsoft Knowledge Base article. After you install
+							this update, you may have to restart your system.
+						1/13/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2781.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/12/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2695.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/12/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2684.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/11/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2537.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/10/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2402.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/9/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2282.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/9/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2208.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/9/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2198.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/8/2016  Definition Update for Windows Defender - KB2267602 (Definition 1.213.2160.0)
+							Install this update to revise the definition files that are used
+							to detect viruses, spyware, and other potentially unwanted software.
+							Once you have installed this item, it cannot be removed.
+						1/8/2016  Update for Internet Explorer Flash Player for Windows 10 Version 1511 for x64-based Systems (KB3133431)
+							Install this update to resolve issues in Windows. For a complete
+							listing of the issues that are included in this update, see the
+							associated Microsoft Knowledge Base article for more information.
+							After you install this item, you may have to restart your computer.
+						1/8/2016  Security Update for Internet Explorer Flash Player for Windows 10 Version 1511 for x64-based Systems (KB3132372)
+							A security issue has been identified in a Microsoft software
+							product that could affect your system. You can help protect your
+							system by installing this update from Microsoft. For a complete
+							listing of the issues that are included in this update, see the
+							associated Microsoft Knowledge Base article. After you install
+							this update, you may have to restart your system.
+						1/8/2016  Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB3124200)
+							Install this update to resolve issues in Windows. For a complete
+							listing of the issues that are included in this update, see the
+							associated Microsoft Knowledge Base article for more information.
+							After you install this item, you may have to restart your computer.
+						1/8/2016  Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2 x64 Edition - December 2015 (KB890830)
+							After the download, this tool runs one time to check your computer
+							for infection by specific, prevalent malicious software (including
+							Blaster, Sasser, and Mydoom) and helps remove any infection that
+							is found. If an infection is found, the tool will display a status
+							report the next time that you start your computer. A new version
+							of the tool will be offered every month. If you want to manually
+							run the tool on your computer, you can download a copy from the
+							Microsoft Download Center, or you can run an online version from
+							microsoft.com. This tool is not a replacement for an antivirus
+							product. To help protect your computer, you should use an antivirus
+							product.
+						1/8/2016  Advanced Micro Devices - Audio Device - AMD High Definition Audio Device
+							Advanced Micro Devices Audio Device software update released
+							in June, 2015
+						1/8/2016  Update for Windows 10 Version 1511 for x64-based Systems (KB3116278)
+							Install this update to resolve issues in Windows. For a complete
+							listing of the issues that are included in this update, see the
+							associated Microsoft Knowledge Base article for more information.
+							After you install this item, you may have to restart your computer.
+				Not Installed
+						1/14/2016  Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2 x64 Edition - January 2016 (KB890830)
+							Installation Status	Failed
+							After the download, this tool runs one time to check your computer
+							for infection by specific, prevalent malicious software (including
+							Blaster, Sasser, and Mydoom) and helps remove any infection that
+							is found. If an infection is found, the tool will display a status
+							report the next time that you start your computer. A new version
+							of the tool will be offered every month. If you want to manually
+							run the tool on your computer, you can download a copy from the
+							Microsoft Download Center, or you can run an online version from
+							microsoft.com. This tool is not a replacement for an antivirus
+							product. To help protect your computer, you should use an antivirus
+							product.
+						1/13/2016  Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2 x64 Edition - January 2016 (KB890830)
+							Installation Status	Failed
+							After the download, this tool runs one time to check your computer
+							for infection by specific, prevalent malicious software (including
+							Blaster, Sasser, and Mydoom) and helps remove any infection that
+							is found. If an infection is found, the tool will display a status
+							report the next time that you start your computer. A new version
+							of the tool will be offered every month. If you want to manually
+							run the tool on your computer, you can download a copy from the
+							Microsoft Download Center, or you can run an online version from
+							microsoft.com. This tool is not a replacement for an antivirus
+							product. To help protect your computer, you should use an antivirus
+							product.
+						1/12/2016  Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB3124263)
+							Installation Status	Failed
+							A security issue has been identified in a Microsoft software
+							product that could affect your system. You can help protect your
+							system by installing this update from Microsoft. For a complete
+							listing of the issues that are included in this update, see the
+							associated Microsoft Knowledge Base article. After you install
+							this update, you may have to restart your system.
+						1/12/2016  Windows Malicious Software Removal Tool for Windows 8, 8.1, 10 and Windows Server 2012, 2012 R2 x64 Edition - January 2016 (KB890830)
+							Installation Status	Failed
+							After the download, this tool runs one time to check your computer
+							for infection by specific, prevalent malicious software (including
+							Blaster, Sasser, and Mydoom) and helps remove any infection that
+							is found. If an infection is found, the tool will display a status
+							report the next time that you start your computer. A new version
+							of the tool will be offered every month. If you want to manually
+							run the tool on your computer, you can download a copy from the
+							Microsoft Download Center, or you can run an online version from
+							microsoft.com. This tool is not a replacement for an antivirus
+							product. To help protect your computer, you should use an antivirus
+							product.
+		System Folders
+			Application Data	C:\ProgramData
+			Cookies	C:\Users\augus\AppData\Local\Microsoft\Windows\INetCookies
+			Desktop	C:\Users\augus\Desktop
+			Documents	C:\Users\Public\Documents
+			Fonts	C:\Windows\Fonts
+			Global Favorites	C:\Users\augus\Favorites
+			Internet History	C:\Users\augus\AppData\Local\Microsoft\Windows\History
+			Local Application Data	C:\Users\augus\AppData\Local
+			Music	C:\Users\Public\Music
+			Path for burning CD	C:\Users\augus\AppData\Local\Microsoft\Windows\Burn\Burn
+			Physical Desktop	C:\Users\augus\Desktop
+			Pictures	C:\Users\Public\Pictures
+			Program Files	C:\Program Files
+			Public Desktop	C:\Users\Public\Desktop
+			Start Menu	C:\ProgramData\Microsoft\Windows\Start Menu
+			Start Menu Programs	C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+			Startup	C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+			Templates	C:\ProgramData\Microsoft\Windows\Templates
+			Temporary Internet Files	C:\Users\augus\AppData\Local\Microsoft\Windows\INetCache
+			User Favorites	C:\Users\augus\Favorites
+			Videos	C:\Users\Public\Videos
+			Windows Directory	C:\Windows
+			Windows/System	C:\Windows\system32
+		Process List
+				AdjustService.exe
+					Process ID	2108
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Gigabyte\AppCenter\AdjustService.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	12 MB
+				amdacpusrsvc.exe
+					Process ID	2484
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\AMD\{920DEC42-4CA5-4d1d-9487-67BE645CDDFC}\amdacpusrsvc.exe
+					Memory Usage	5.45 MB
+					Peak Memory Usage	37 MB
+				ApCent.exe
+					Process ID	8768
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Gigabyte\AppCenter\ApCent.exe
+					Memory Usage	92 MB
+					Peak Memory Usage	99 MB
+				ApplicationFrameHost.exe
+					Process ID	10376
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\System32\ApplicationFrameHost.exe
+					Memory Usage	20 MB
+					Peak Memory Usage	25 MB
+				atieclxx.exe
+					Process ID	732
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\atieclxx.exe
+					Memory Usage	9.62 MB
+					Peak Memory Usage	40 MB
+				atiesrxx.exe
+					Process ID	1172
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\atiesrxx.exe
+					Memory Usage	4.91 MB
+					Peak Memory Usage	5.06 MB
+				audiodg.exe
+					Process ID	9448
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\audiodg.exe
+					Memory Usage	25 MB
+					Peak Memory Usage	30 MB
+				backgroundTaskHost.exe
+					Process ID	6860
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\System32\backgroundTaskHost.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	17 MB
+				chrome.exe
+					Process ID	4220
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	22 MB
+					Peak Memory Usage	24 MB
+				chrome.exe
+					Process ID	5712
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	60 MB
+					Peak Memory Usage	65 MB
+				chrome.exe
+					Process ID	7744
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	46 MB
+					Peak Memory Usage	49 MB
+				chrome.exe
+					Process ID	10016
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	56 MB
+					Peak Memory Usage	86 MB
+				chrome.exe
+					Process ID	5248
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	22 MB
+					Peak Memory Usage	24 MB
+				chrome.exe
+					Process ID	2056
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	85 MB
+					Peak Memory Usage	130 MB
+				chrome.exe
+					Process ID	9236
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	41 MB
+					Peak Memory Usage	47 MB
+				chrome.exe
+					Process ID	8460
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	62 MB
+					Peak Memory Usage	118 MB
+				chrome.exe
+					Process ID	9808
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	230 MB
+					Peak Memory Usage	264 MB
+				chrome.exe
+					Process ID	7756
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	87 MB
+					Peak Memory Usage	105 MB
+				chrome.exe
+					Process ID	10756
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	170 MB
+					Peak Memory Usage	262 MB
+				chrome.exe
+					Process ID	10080
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+					Memory Usage	359 MB
+					Peak Memory Usage	452 MB
+				cnext.exe
+					Process ID	4948
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files\AMD\CNext\CNext\cnext.exe
+					Memory Usage	34 MB
+					Peak Memory Usage	113 MB
+				csrss.exe
+					Process ID	516
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\csrss.exe
+					Memory Usage	4.48 MB
+					Peak Memory Usage	4.60 MB
+				csrss.exe
+					Process ID	5144
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\csrss.exe
+					Memory Usage	34 MB
+					Peak Memory Usage	88 MB
+				dasHost.exe
+					Process ID	2244
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\dasHost.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	20 MB
+				dwm.exe
+					Process ID	4148
+					User	DWM-2
+					Domain	Window Manager
+					Path	C:\Windows\System32\dwm.exe
+					Memory Usage	58 MB
+					Peak Memory Usage	99 MB
+				EpmNews.exe
+					Process ID	6576
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\EaseUS\EaseUS Partition Master 10.8\bin\EpmNews.exe
+					Memory Usage	8.95 MB
+					Peak Memory Usage	9.60 MB
+				explorer.exe
+					Process ID	2604
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\explorer.exe
+					Memory Usage	203 MB
+					Peak Memory Usage	245 MB
+				fontdrvhost.exe
+					Process ID	11172
+					Path	C:\Windows\System32\fontdrvhost.exe
+					Memory Usage	8.70 MB
+					Peak Memory Usage	9.40 MB
+				Fuel.Service.exe
+					Process ID	2236
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\AMD\ATI.ACE\Fuel\Fuel.Service.exe
+					Memory Usage	18 MB
+					Peak Memory Usage	18 MB
+				GCloud.exe
+					Process ID	2724
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Gigabyte\CloudStation\HomeCloud\GCloud.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	17 MB
+				grckm.exe
+					Process ID	3560
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Gigabyte\CloudStation\RemoteControl\grckm.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	18 MB
+				HCLOUD.exe
+					Process ID	8912
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Gigabyte\CloudStation\HomeCloud\HCLOUD.exe
+					Memory Usage	35 MB
+					Peak Memory Usage	37 MB
+				hldj.exe
+					Process ID	9912
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\HLDJ\hldj.exe
+					Memory Usage	16 MB
+					Peak Memory Usage	17 MB
+				hldj.exe
+					Process ID	10008
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\HLDJ\hldj.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	17 MB
+				hldj.exe
+					Process ID	10796
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\HLDJ\hldj.exe
+					Memory Usage	16 MB
+					Peak Memory Usage	17 MB
+				javaw.exe
+					Process ID	6104
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files\Java\jre1.8.0_66\bin\javaw.exe
+					Memory Usage	714 MB
+					Peak Memory Usage	726 MB
+				jusched.exe
+					Process ID	7604
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+					Memory Usage	7.36 MB
+					Peak Memory Usage	7.44 MB
+				LCore.exe
+					Process ID	1484
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files\Logitech Gaming Software\LCore.exe
+					Memory Usage	46 MB
+					Peak Memory Usage	47 MB
+				Lightshot.exe
+					Process ID	1448
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Skillbrains\lightshot\5.3.0.0\Lightshot.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	19 MB
+				LogiRegistryService.exe
+					Process ID	2352
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Logitech Gaming Software\Drivers\APOService\LogiRegistryService.exe
+					Memory Usage	5.21 MB
+					Peak Memory Usage	5.33 MB
+				lsass.exe
+					Process ID	816
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\lsass.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	20 MB
+				MpCmdRun.exe
+					Process ID	2636
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Windows Defender\MpCmdRun.exe
+					Memory Usage	10 MB
+					Peak Memory Usage	11 MB
+				MsMpEng.exe
+					Process ID	2540
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Windows Defender\MsMpEng.exe
+					Memory Usage	227 MB
+					Peak Memory Usage	622 MB
+				MultiMC.exe
+					Process ID	7852
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\MultiMC\MultiMC.exe
+					Memory Usage	65 MB
+					Peak Memory Usage	69 MB
+				NisSrv.exe
+					Process ID	3800
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Windows Defender\NisSrv.exe
+					Memory Usage	12 MB
+					Peak Memory Usage	37 MB
+				OneDrive.exe
+					Process ID	9264
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Users\augus\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+					Memory Usage	21 MB
+					Peak Memory Usage	22 MB
+				Origin.exe
+					Process ID	2932
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Origin\Origin.exe
+					Memory Usage	222 MB
+					Peak Memory Usage	239 MB
+				PnkBstrA.exe
+					Process ID	2584
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\SysWOW64\PnkBstrA.exe
+					Memory Usage	5.38 MB
+					Peak Memory Usage	5.63 MB
+				RAVCpl64.exe
+					Process ID	8412
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe
+					Memory Usage	14 MB
+					Peak Memory Usage	15 MB
+				ReflectService.exe
+					Process ID	2476
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Macrium\Reflect\ReflectService.exe
+					Memory Usage	8.64 MB
+					Peak Memory Usage	11 MB
+				rufus-2.6.exe
+					Process ID	7372
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Users\augus\Downloads\rufus-2.6.exe
+					Memory Usage	66 MB
+					Peak Memory Usage	541 MB
+				RuntimeBroker.exe
+					Process ID	6548
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\System32\RuntimeBroker.exe
+					Memory Usage	46 MB
+					Peak Memory Usage	49 MB
+				ScpService.exe
+					Process ID	5260
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Nefarius Software Solutions\ScpToolkit\ScpService.exe
+					Memory Usage	76 MB
+					Peak Memory Usage	78 MB
+				ScpTrayApp.exe
+					Process ID	5680
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files\Nefarius Software Solutions\ScpToolkit\ScpTrayApp.exe
+					Memory Usage	54 MB
+					Peak Memory Usage	65 MB
+				SearchFilterHost.exe
+					Process ID	7480
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SearchFilterHost.exe
+					Memory Usage	5.27 MB
+					Peak Memory Usage	5.31 MB
+				SearchIndexer.exe
+					Process ID	520
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SearchIndexer.exe
+					Memory Usage	49 MB
+					Peak Memory Usage	64 MB
+				SearchProtocolHost.exe
+					Process ID	8292
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\SearchProtocolHost.exe
+					Memory Usage	10 MB
+					Peak Memory Usage	10 MB
+				SearchUI.exe
+					Process ID	3824
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe
+					Memory Usage	91 MB
+					Peak Memory Usage	96 MB
+				services.exe
+					Process ID	804
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\services.exe
+					Memory Usage	8.41 MB
+					Peak Memory Usage	9.48 MB
+				SettingSyncHost.exe
+					Process ID	5980
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\System32\SettingSyncHost.exe
+					Memory Usage	4.27 MB
+					Peak Memory Usage	47 MB
+				ShellExperienceHost.exe
+					Process ID	3652
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+					Memory Usage	69 MB
+					Peak Memory Usage	76 MB
+				sihost.exe
+					Process ID	7628
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\System32\sihost.exe
+					Memory Usage	21 MB
+					Peak Memory Usage	23 MB
+				Skype.exe
+					Process ID	2816
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\Skype\Phone\Skype.exe
+					Memory Usage	205 MB
+					Peak Memory Usage	231 MB
+				smss.exe
+					Process ID	360
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\smss.exe
+					Memory Usage	1.12 MB
+					Peak Memory Usage	1.20 MB
+				Speccy64.exe
+					Process ID	2836
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files\Speccy\Speccy64.exe
+					Memory Usage	30 MB
+					Peak Memory Usage	30 MB
+				spoolsv.exe
+					Process ID	1756
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\spoolsv.exe
+					Memory Usage	17 MB
+					Peak Memory Usage	17 MB
+				Spotify.exe
+					Process ID	444
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Users\augus\AppData\Roaming\Spotify\Spotify.exe
+					Memory Usage	143 MB
+					Peak Memory Usage	151 MB
+				Spotify.exe
+					Process ID	7288
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Users\augus\AppData\Roaming\Spotify\Spotify.exe
+					Memory Usage	66 MB
+					Peak Memory Usage	76 MB
+				Spotify.exe
+					Process ID	6120
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Users\augus\AppData\Roaming\Spotify\Spotify.exe
+					Memory Usage	95 MB
+					Peak Memory Usage	96 MB
+				SpotifyCrashService.exe
+					Process ID	1428
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Users\augus\AppData\Roaming\Spotify\SpotifyCrashService.exe
+					Memory Usage	6.75 MB
+					Peak Memory Usage	7.25 MB
+				SpotifyWebHelper.exe
+					Process ID	8504
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Users\augus\AppData\Roaming\Spotify\SpotifyWebHelper.exe
+					Memory Usage	8.35 MB
+					Peak Memory Usage	8.89 MB
+				StandardCollector.Service.exe
+					Process ID	7596
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Microsoft Visual Studio 14.0\Team Tools\DiagnosticsHub\Collector\StandardCollector.Service.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	27 MB
+				Steam.exe
+					Process ID	9920
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\steam\Steam.exe
+					Memory Usage	119 MB
+					Peak Memory Usage	134 MB
+				SteamService.exe
+					Process ID	9296
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Common Files\Steam\SteamService.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	75 MB
+				steamwebhelper.exe
+					Process ID	7360
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\steam\bin\steamwebhelper.exe
+					Memory Usage	32 MB
+					Peak Memory Usage	39 MB
+				steamwebhelper.exe
+					Process ID	4204
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\steam\bin\steamwebhelper.exe
+					Memory Usage	108 MB
+					Peak Memory Usage	161 MB
+				steamwebhelper.exe
+					Process ID	5708
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\steam\bin\steamwebhelper.exe
+					Memory Usage	69 MB
+					Peak Memory Usage	81 MB
+				svchost.exe
+					Process ID	3368
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	10 MB
+					Peak Memory Usage	10 MB
+				svchost.exe
+					Process ID	1140
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	6.61 MB
+					Peak Memory Usage	8.04 MB
+				svchost.exe
+					Process ID	548
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	83 MB
+					Peak Memory Usage	106 MB
+				svchost.exe
+					Process ID	988
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	34 MB
+					Peak Memory Usage	36 MB
+				svchost.exe
+					Process ID	1052
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	20 MB
+				svchost.exe
+					Process ID	2524
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	18 MB
+					Peak Memory Usage	19 MB
+				svchost.exe
+					Process ID	1284
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	36 MB
+					Peak Memory Usage	37 MB
+				svchost.exe
+					Process ID	1692
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	35 MB
+					Peak Memory Usage	101 MB
+				svchost.exe
+					Process ID	508
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	135 MB
+					Peak Memory Usage	162 MB
+				svchost.exe
+					Process ID	1104
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	30 MB
+					Peak Memory Usage	53 MB
+				svchost.exe
+					Process ID	2532
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	28 MB
+					Peak Memory Usage	33 MB
+				svchost.exe
+					Process ID	11028
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	37 MB
+					Peak Memory Usage	42 MB
+				svchost.exe
+					Process ID	912
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	22 MB
+					Peak Memory Usage	23 MB
+				svchost.exe
+					Process ID	960
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\svchost.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	11 MB
+				System
+					Process ID	4
+					Memory Usage	32 MB
+					Peak Memory Usage	89 MB
+				System Idle Process
+					Process ID	0
+				taskhostw.exe
+					Process ID	8596
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Windows\System32\taskhostw.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	56 MB
+				TeamViewer_Service.exe
+					Process ID	2684
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	30 MB
+				TrayTipAgentE.exe
+					Process ID	10368
+					User	augus
+					Domain	AUGUST-PC
+					Path	C:\Program Files (x86)\EaseUS\EaseUS Partition Master 10.8\bin\TrayPopupE\TrayTipAgentE.exe
+					Memory Usage	9.39 MB
+					Peak Memory Usage	9.71 MB
+				ubssrv_oc_only.exe
+					Process ID	2712
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Gigabyte\CloudStation\RemoteOC\ubssrv_oc_only.exe
+					Memory Usage	35 MB
+					Peak Memory Usage	37 MB
+				vmnat.exe
+					Process ID	2556
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\SysWOW64\vmnat.exe
+					Memory Usage	5.58 MB
+					Peak Memory Usage	5.77 MB
+				vmnetdhcp.exe
+					Process ID	2424
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\SysWOW64\vmnetdhcp.exe
+					Memory Usage	4.21 MB
+					Peak Memory Usage	11 MB
+				vmware-authd.exe
+					Process ID	1532
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	F:\vmware\vmware-authd.exe
+					Memory Usage	11 MB
+					Peak Memory Usage	11 MB
+				vmware-hostd.exe
+					Process ID	10136
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	F:\vmware\vmware-hostd.exe
+					Memory Usage	45 MB
+					Peak Memory Usage	46 MB
+				vmware-tray.exe
+					Process ID	7296
+					User	augus
+					Domain	AUGUST-PC
+					Path	F:\vmware\vmware-tray.exe
+					Memory Usage	7.04 MB
+					Peak Memory Usage	7.55 MB
+				vmware-usbarbitrator64.exe
+					Process ID	6420
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe
+					Memory Usage	9.12 MB
+					Peak Memory Usage	9.16 MB
+				wininit.exe
+					Process ID	680
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\wininit.exe
+					Memory Usage	4.96 MB
+					Peak Memory Usage	5.37 MB
+				winlogon.exe
+					Process ID	1680
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\winlogon.exe
+					Memory Usage	7.11 MB
+					Peak Memory Usage	21 MB
+				WmiApSrv.exe
+					Process ID	8428
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\wbem\WmiApSrv.exe
+					Memory Usage	6.75 MB
+					Peak Memory Usage	6.75 MB
+				WmiPrvSE.exe
+					Process ID	10560
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\wbem\WmiPrvSE.exe
+					Memory Usage	15 MB
+					Peak Memory Usage	15 MB
+				WmiPrvSE.exe
+					Process ID	1324
+					User	SYSTEM
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\wbem\WmiPrvSE.exe
+					Memory Usage	19 MB
+					Peak Memory Usage	19 MB
+				wmpnetwk.exe
+					Process ID	9032
+					User	NETWORK SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Program Files\Windows Media Player\wmpnetwk.exe
+					Memory Usage	3.37 MB
+					Peak Memory Usage	21 MB
+				WUDFHost.exe
+					Process ID	1308
+					User	LOCAL SERVICE
+					Domain	NT AUTHORITY
+					Path	C:\Windows\System32\WUDFHost.exe
+					Memory Usage	7.28 MB
+					Peak Memory Usage	7.41 MB
+		Security Options
+			Accounts: Administrator account status	Disabled
+			Accounts: Block Microsoft accounts	Not Defined
+			Accounts: Guest account status	Disabled
+			Accounts: Limit local account use of blank passwords to console logon only	Enabled
+			Accounts: Rename administrator account	Administrator
+			Accounts: Rename guest account	Guest
+			Audit: Audit the access of global system objects	Disabled
+			Audit: Audit the use of Backup and Restore privilege	Enabled
+			Audit: Force audit policy subcategory settings (Windows Vista or later) to override audit policy category settings	Not Defined
+			Audit: Shut down system immediately if unable to log security audits	Disabled
+			DCOM: Machine Access Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Defined
+			DCOM: Machine Launch Restrictions in Security Descriptor Definition Language (SDDL) syntax	Not Defined
+			Devices: Allow undock without having to log on	Enabled
+			Devices: Allowed to format and eject removable media	Not Defined
+			Devices: Prevent users from installing printer drivers	Disabled
+			Devices: Restrict CD-ROM access to locally logged-on user only	Not Defined
+			Devices: Restrict floppy access to locally logged-on user only	Not Defined
+			Domain controller: Allow server operators to schedule tasks	Not Defined
+			Domain controller: LDAP server signing requirements	Not Defined
+			Domain controller: Refuse machine account password changes	Not Defined
+			Domain member: Digitally encrypt or sign secure channel data (always)	Enabled
+			Domain member: Digitally encrypt secure channel data (when possible)	Enabled
+			Domain member: Digitally sign secure channel data (when possible)	Enabled
+			Domain member: Disable machine account password changes	Disabled
+			Domain member: Maximum machine account password age	30 days
+			Domain member: Require strong (Windows 2000 or later) session key	Enabled
+			Interactive logon: Display user information when the session is locked	Not Defined
+			Interactive logon: Do not display last user name	Disabled
+			Interactive logon: Do not require CTRL+ALT+DEL	Not Defined
+			Interactive logon: Machine account lockout threshold	Not Defined
+			Interactive logon: Machine inactivity limit	Not Defined
+			Interactive logon: Message text for users attempting to log on
+			Interactive logon: Message title for users attempting to log on
+			Interactive logon: Number of previous logons to cache (in case domain controller is not available)	10 logons
+			Interactive logon: Prompt user to change password before expiration	5 days
+			Interactive logon: Require Domain Controller authentication to unlock workstation	Disabled
+			Interactive logon: Require smart card	Disabled
+			Interactive logon: Smart card removal behavior	No Action
+			Microsoft network client: Digitally sign communications (always)	Disabled
+			Microsoft network client: Digitally sign communications (if server agrees)	Enabled
+			Microsoft network client: Send unencrypted password to third-party SMB servers	Disabled
+			Microsoft network server: Amount of idle time required before suspending session	15 minutes
+			Microsoft network server: Attempt S4U2Self to obtain claim information	Not Defined
+			Microsoft network server: Digitally sign communications (always)	Disabled
+			Microsoft network server: Digitally sign communications (if client agrees)	Disabled
+			Microsoft network server: Disconnect clients when logon hours expire	Enabled
+			Microsoft network server: Server SPN target name validation level	Not Defined
+			Network access: Allow anonymous SID/Name translation	Disabled
+			Network access: Do not allow anonymous enumeration of SAM accounts	Enabled
+			Network access: Do not allow anonymous enumeration of SAM accounts and shares	Disabled
+			Network access: Do not allow storage of passwords and credentials for network authentication	Disabled
+			Network access: Let Everyone permissions apply to anonymous users	Disabled
+			Network access: Named Pipes that can be accessed anonymously
+			Network access: Remotely accessible registry paths	System\CurrentControlSet\Control\ProductOptions,System\CurrentControlSet\Control\Server Applications,Software\Microsoft\Windows NT\CurrentVersion
+			Network access: Remotely accessible registry paths and sub-paths	System\CurrentControlSet\Control\Print\Printers,System\CurrentControlSet\Services\Eventlog,Software\Microsoft\OLAP Server,Software\Microsoft\Windows NT\CurrentVersion\Print,Software\Microsoft\Windows NT\CurrentVersion\Windows,System\CurrentControlSet\Control\ContentIndex,System\CurrentControlSet\Control\Terminal Server,System\CurrentControlSet\Control\Terminal Server\UserConfig,System\CurrentControlSet\Control\Terminal Server\DefaultUserConfiguration,Software\Microsoft\Windows NT\CurrentVersion\Perflib,System\CurrentControlSet\Services\SysmonLog
+			Network access: Restrict anonymous access to Named Pipes and Shares	Enabled
+			Network access: Shares that can be accessed anonymously	Not Defined
+			Network access: Sharing and security model for local accounts	Classic - local users authenticate as themselves
+			Network security: Allow Local System to use computer identity for NTLM	Not Defined
+			Network security: Allow LocalSystem NULL session fallback	Not Defined
+			Network security: Allow PKU2U authentication requests to this computer to use online identities.
+
+	Not Defined
+			Network security: Configure encryption types allowed for Kerberos	Not Defined
+			Network security: Do not store LAN Manager hash value on next password change	Enabled
+			Network security: Force logoff when logon hours expire	Disabled
+			Network security: LAN Manager authentication level	Not Defined
+			Network security: LDAP client signing requirements	Negotiate signing
+			Network security: Minimum session security for NTLM SSP based (including secure RPC) clients	Require 128-bit encryption
+			Network security: Minimum session security for NTLM SSP based (including secure RPC) servers	Require 128-bit encryption
+			Network security: Restrict NTLM: Add remote server exceptions for NTLM authentication	Not Defined
+			Network security: Restrict NTLM: Add server exceptions in this domain	Not Defined
+			Network security: Restrict NTLM: Audit Incoming NTLM Traffic	Not Defined
+			Network security: Restrict NTLM: Audit NTLM authentication in this domain	Not Defined
+			Network security: Restrict NTLM: Incoming NTLM traffic	Not Defined
+			Network security: Restrict NTLM: NTLM authentication in this domain	Not Defined
+			Network security: Restrict NTLM: Outgoing NTLM traffic to remote servers	Not Defined
+			Recovery console: Allow automatic administrative logon	Disabled
+			Recovery console: Allow floppy copy and access to all drives and all folders	Disabled
+			Shutdown: Allow system to be shut down without having to log on	Enabled
+			Shutdown: Clear virtual memory pagefile	Disabled
+			System cryptography: Force strong key protection for user keys stored on the computer	Not Defined
+			System cryptography: Use FIPS compliant algorithms for encryption, hashing, and signing	Disabled
+			System objects: Require case insensitivity for non-Windows subsystems	Enabled
+			System objects: Strengthen default permissions of internal system objects (e.g. Symbolic Links)	Enabled
+			System settings: Optional subsystems
+			System settings: Use Certificate Rules on Windows Executables for Software Restriction Policies	Disabled
+			User Account Control: Admin Approval Mode for the Built-in Administrator account	Not Defined
+			User Account Control: Allow UIAccess applications to prompt for elevation without using the secure desktop	Disabled
+			User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode	Prompt for consent for non-Windows binaries
+			User Account Control: Behavior of the elevation prompt for standard users	Prompt for credentials
+			User Account Control: Detect application installations and prompt for elevation	Enabled
+			User Account Control: Only elevate executables that are signed and validated	Disabled
+			User Account Control: Only elevate UIAccess applications that are installed in secure locations	Enabled
+			User Account Control: Run all administrators in Admin Approval Mode	Enabled
+			User Account Control: Switch to the secure desktop when prompting for elevation	Enabled
+			User Account Control: Virtualize file and registry write failures to per-user locations	Enabled
+		Device Tree
+				ACPI x64-based PC
+						Microsoft ACPI-Compliant System
+							ACPI Fixed Feature Button
+							ACPI Power Button
+							AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G
+							AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G
+							AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G
+							AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G
+							High precision event timer
+							Motherboard resources
+							System board
+								PCI Express Root Complex
+									AMD IOMMU Device
+									AMD Radeon R7 Graphics
+									AMD SMBus
+									Motherboard resources
+									Motherboard resources
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									PCI standard host CPU bridge
+									System board
+										PCI standard host CPU bridge
+											Motherboard resources
+										High Definition Audio Bus
+											AMD High Definition Audio Device
+										PCI Express Root Port
+												AMD Radeon R7 Graphics + R7 200 Dual Graphics
+													Generic PnP Monitor
+													Lenovo L1951pwD(Digital)
+												High Definition Audio Bus
+														AMD High Definition Audio Device
+															1 - VS248 (AMD High Definition Audio Device)
+										PCI Express Root Port
+											Realtek PCIe GBE Family Controller
+										AMD USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)
+											USB Root Hub (xHCI)
+										AMD USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)
+											USB Root Hub (xHCI)
+										Standard SATA AHCI Controller
+											ASUS DRW-24B1ST a
+											KINGSTON SV300S37A120G
+											ST380815AS
+											TOSHIBA DT01ACA050
+											TOSHIBA MQ01ABD050
+										Standard OpenHCD USB Host Controller
+												USB Root Hub
+													BCM2046B1
+														USB Composite Device
+																USB Input Device
+																	HID Keyboard Device
+																USB Input Device
+																	HID Keyboard Device
+																	HID-compliant consumer control device
+																	HID-compliant device
+																	HID-compliant device
+																	HID-compliant system controller
+																USB Input Device
+																	HID-compliant mouse
+														USB Composite Device
+																USB Input Device
+																		Logitech Optical Gaming Mouse G300/G300s
+																			Logitech Gaming HID Device
+																USB Input Device
+																	HID Keyboard Device
+																	HID-compliant vendor-defined device
+										Standard Enhanced PCI to USB Host Controller
+											USB Root Hub
+										Standard OpenHCD USB Host Controller
+												USB Root Hub
+													PLAYSTATION3 Controller
+										Standard Enhanced PCI to USB Host Controller
+											USB Root Hub
+										High Definition Audio Controller
+												Realtek High Definition Audio
+													Microphone (Realtek High Definition Audio)
+													Realtek Digital Output (Realtek High Definition Audio)
+													Realtek Digital Output(Optical) (Realtek High Definition Audio)
+													Speakers (Realtek High Definition Audio)
+										PCI standard ISA bridge
+											Direct memory access controller
+											Motherboard resources
+											Motherboard resources
+											Motherboard resources
+											Numeric data processor
+											Programmable interrupt controller
+											Standard PS/2 Keyboard
+											System CMOS/real time clock
+											System speaker
+											System timer
+										PCI-to-PCI Bridge
+											Intel PRO/1000 GT Desktop Adapter
+										Standard OpenHCD USB Host Controller
+											USB Root Hub
+						Microsoft UEFI-Compliant System
+							System Firmware
+CPU
+		AMD A10-7700K
+			Cores	4
+			Threads	4
+			Name	AMD A10-7700K
+			Code Name	Kaveri
+			Package	Socket FM2+ (906)
+			Technology	28nm
+			Specification	AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G
+			Family	F
+			Extended Family	15
+			Model	0
+			Extended Model	30
+			Stepping	1
+			Revision	KV-A1
+			Instructions	MMX (+), SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, SSE4A, AMD 64, NX, VMX, AES, AVX, FMA3, FMA4
+			Virtualization	Supported, Disabled
+			Hyperthreading	Not supported
+			Fan Speed	1480 RPM
+			Bus Speed	99.8 MHz
+			Stock Core Speed	3800 MHz
+			Stock Bus Speed	100 MHz
+			Average Temperature	67 °C
+				Caches
+					L1 Data Cache Size	4 x 16 KBytes
+					L1 Instructions Cache Size	2 x 96 KBytes
+					L2 Unified Cache Size	2 x 2048 KBytes
+				Cores
+						Core 0
+							Core Speed	3792.3 MHz
+							Multiplier	x 38.0
+							Bus Speed	99.8 MHz
+							Temperature	67 °C
+							Threads	APIC ID: 0
+						Core 1
+							Core Speed	3792.3 MHz
+							Multiplier	x 38.0
+							Bus Speed	99.8 MHz
+							Temperature	67 °C
+							Threads	APIC ID: 1
+						Core 2
+							Core Speed	1896.2 MHz
+							Multiplier	x 19.0
+							Bus Speed	99.8 MHz
+							Temperature	67 °C
+							Threads	APIC ID: 2
+						Core 3
+							Core Speed	1896.2 MHz
+							Multiplier	x 19.0
+							Bus Speed	99.8 MHz
+							Temperature	67 °C
+							Threads	APIC ID: 3
+RAM
+		Memory slots
+			Total memory slots	4
+			Used memory slots	4
+			Free memory slots	0
+		Memory
+			Type	DDR3
+			Size	16384 MBytes
+			Channels #	Dual
+			DRAM Frequency	798.4 MHz
+			CAS# Latency (CL)	9 clocks
+			RAS# to CAS# Delay (tRCD)	10 clocks
+			RAS# Precharge (tRP)	9 clocks
+			Cycle Time (tRAS)	26 clocks
+			Bank Cycle Time (tRC)	35 clocks
+		Physical Memory
+			Memory Usage	35 %
+			Total Physical	15 GB
+			Available Physical	9.59 GB
+			Total Virtual	17 GB
+			Available Virtual	11 GB
+		SPD
+			Number Of SPD Modules	4
+				Slot #1
+					Type	DDR3
+					Size	4096 MBytes
+					Manufacturer	A-Data Technology
+					Max Bandwidth	PC3-12800 (800 MHz)
+					Part Number	DDR3 1600 2OZ
+					Serial Number	1305936128
+					Week/year	37 / 15
+					SPD Ext.	XMP
+						Timing table
+								JEDEC #1
+									Frequency	381.0 MHz
+									CAS# Latency	5.0
+									RAS# To CAS#	5
+									RAS# Precharge	5
+									tRAS	14
+									tRC	19
+									Voltage	1.500 V
+								JEDEC #2
+									Frequency	457.1 MHz
+									CAS# Latency	6.0
+									RAS# To CAS#	6
+									RAS# Precharge	6
+									tRAS	16
+									tRC	22
+									Voltage	1.500 V
+								JEDEC #3
+									Frequency	533.3 MHz
+									CAS# Latency	7.0
+									RAS# To CAS#	7
+									RAS# Precharge	7
+									tRAS	19
+									tRC	26
+									Voltage	1.500 V
+								JEDEC #4
+									Frequency	609.5 MHz
+									CAS# Latency	8.0
+									RAS# To CAS#	8
+									RAS# Precharge	8
+									tRAS	22
+									tRC	30
+									Voltage	1.500 V
+								JEDEC #5
+									Frequency	685.7 MHz
+									CAS# Latency	9.0
+									RAS# To CAS#	9
+									RAS# Precharge	9
+									tRAS	24
+									tRC	33
+									Voltage	1.500 V
+								JEDEC #6
+									Frequency	761.9 MHz
+									CAS# Latency	10.0
+									RAS# To CAS#	10
+									RAS# Precharge	10
+									tRAS	27
+									tRC	37
+									Voltage	1.500 V
+								JEDEC #7
+									Frequency	800.0 MHz
+									CAS# Latency	11.0
+									RAS# To CAS#	11
+									RAS# Precharge	11
+									tRAS	28
+									tRC	39
+									Voltage	1.500 V
+								XMP-1600
+									Frequency	800 MHz
+									CAS# Latency	9.0
+									RAS# To CAS#	9
+									RAS# Precharge	9
+									tRAS	24
+									Voltage	1.500 V
+				Slot #2
+					Type	DDR3
+					Size	4096 MBytes
+					Manufacturer	A-Data Technology
+					Max Bandwidth	PC3-12800 (800 MHz)
+					Part Number	DDR3 1600 2OZ
+					Serial Number	1322713344
+					Week/year	37 / 15
+					SPD Ext.	XMP
+						Timing table
+								JEDEC #1
+									Frequency	381.0 MHz
+									CAS# Latency	5.0
+									RAS# To CAS#	5
+									RAS# Precharge	5
+									tRAS	14
+									tRC	19
+									Voltage	1.500 V
+								JEDEC #2
+									Frequency	457.1 MHz
+									CAS# Latency	6.0
+									RAS# To CAS#	6
+									RAS# Precharge	6
+									tRAS	16
+									tRC	22
+									Voltage	1.500 V
+								JEDEC #3
+									Frequency	533.3 MHz
+									CAS# Latency	7.0
+									RAS# To CAS#	7
+									RAS# Precharge	7
+									tRAS	19
+									tRC	26
+									Voltage	1.500 V
+								JEDEC #4
+									Frequency	609.5 MHz
+									CAS# Latency	8.0
+									RAS# To CAS#	8
+									RAS# Precharge	8
+									tRAS	22
+									tRC	30
+									Voltage	1.500 V
+								JEDEC #5
+									Frequency	685.7 MHz
+									CAS# Latency	9.0
+									RAS# To CAS#	9
+									RAS# Precharge	9
+									tRAS	24
+									tRC	33
+									Voltage	1.500 V
+								JEDEC #6
+									Frequency	761.9 MHz
+									CAS# Latency	10.0
+									RAS# To CAS#	10
+									RAS# Precharge	10
+									tRAS	27
+									tRC	37
+									Voltage	1.500 V
+								JEDEC #7
+									Frequency	800.0 MHz
+									CAS# Latency	11.0
+									RAS# To CAS#	11
+									RAS# Precharge	11
+									tRAS	28
+									tRC	39
+									Voltage	1.500 V
+								XMP-1600
+									Frequency	800 MHz
+									CAS# Latency	9.0
+									RAS# To CAS#	9
+									RAS# Precharge	9
+									tRAS	24
+									Voltage	1.500 V
+				Slot #3
+					Type	DDR3
+					Size	4096 MBytes
+					Manufacturer	A-Data Technology
+					Max Bandwidth	PC3-10700 (667 MHz)
+					Part Number	DDR3 1866
+					Serial Number	00052216
+					Week/year	51 / 13
+					SPD Ext.	XMP
+						Timing table
+								JEDEC #1
+									Frequency	381.0 MHz
+									CAS# Latency	5.0
+									RAS# To CAS#	5
+									RAS# Precharge	5
+									tRAS	14
+									tRC	19
+									Voltage	1.500 V
+								JEDEC #2
+									Frequency	457.1 MHz
+									CAS# Latency	6.0
+									RAS# To CAS#	6
+									RAS# Precharge	6
+									tRAS	17
+									tRC	23
+									Voltage	1.500 V
+								JEDEC #3
+									Frequency	533.3 MHz
+									CAS# Latency	7.0
+									RAS# To CAS#	7
+									RAS# Precharge	7
+									tRAS	20
+									tRC	27
+									Voltage	1.500 V
+								JEDEC #4
+									Frequency	609.5 MHz
+									CAS# Latency	8.0
+									RAS# To CAS#	8
+									RAS# Precharge	8
+									tRAS	22
+									tRC	30
+									Voltage	1.500 V
+								JEDEC #5
+									Frequency	666.7 MHz
+									CAS# Latency	9.0
+									RAS# To CAS#	9
+									RAS# Precharge	9
+									tRAS	24
+									tRC	33
+									Voltage	1.500 V
+								XMP-1866
+									Frequency	933 MHz
+									CAS# Latency	10.0
+									RAS# To CAS#	11
+									RAS# Precharge	10
+									tRAS	30
+									Voltage	1.500 V
+				Slot #4
+					Type	DDR3
+					Size	4096 MBytes
+					Manufacturer	A-Data Technology
+					Max Bandwidth	PC3-10700 (667 MHz)
+					Part Number	DDR3 1866
+					Serial Number	00052200
+					Week/year	51 / 13
+					SPD Ext.	XMP
+						Timing table
+								JEDEC #1
+									Frequency	381.0 MHz
+									CAS# Latency	5.0
+									RAS# To CAS#	5
+									RAS# Precharge	5
+									tRAS	14
+									tRC	19
+									Voltage	1.500 V
+								JEDEC #2
+									Frequency	457.1 MHz
+									CAS# Latency	6.0
+									RAS# To CAS#	6
+									RAS# Precharge	6
+									tRAS	17
+									tRC	23
+									Voltage	1.500 V
+								JEDEC #3
+									Frequency	533.3 MHz
+									CAS# Latency	7.0
+									RAS# To CAS#	7
+									RAS# Precharge	7
+									tRAS	20
+									tRC	27
+									Voltage	1.500 V
+								JEDEC #4
+									Frequency	609.5 MHz
+									CAS# Latency	8.0
+									RAS# To CAS#	8
+									RAS# Precharge	8
+									tRAS	22
+									tRC	30
+									Voltage	1.500 V
+								JEDEC #5
+									Frequency	666.7 MHz
+									CAS# Latency	9.0
+									RAS# To CAS#	9
+									RAS# Precharge	9
+									tRAS	24
+									tRC	33
+									Voltage	1.500 V
+								XMP-1866
+									Frequency	933 MHz
+									CAS# Latency	10.0
+									RAS# To CAS#	11
+									RAS# Precharge	10
+									tRAS	30
+									Voltage	1.500 V
+Motherboard
+	Manufacturer	Gigabyte Technology Co. Ltd.
+	Model	F2A88X-D3H (P0)
+	Version	x.x
+	Chipset Vendor	AMD
+	Chipset Model	K15 IMC
+	Chipset Revision	00
+	Southbridge Vendor	AMD
+	Southbridge Model	A88X FCH
+	Southbridge Revision	2.6
+	System Temperature	32 °C
+		BIOS
+			Brand	American Megatrends Inc.
+			Version	F7
+			Date	12/25/2015
+		Voltage
+			CPU CORE	1.392 V
+			MEMORY CONTROLLER	1.464 V
+			+3.3V	2.028 V
+			+5V	3.387 V
+			+12V	8.016 V
+			-12V	-8.880 V
+			-5V	-8.880 V
+			+5V HIGH THRESHOLD	2.782 V
+			CMOS BATTERY	1.500 V
+		PCI Data
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x16
+					Slot Designation	J6B2
+					Characteristics	3.3V, Shared, PME
+					Slot Number	0
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x1
+					Slot Designation	J6B1
+					Characteristics	3.3V, Shared, PME
+					Slot Number	1
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x8
+					Slot Designation	J6D1
+					Characteristics	3.3V, Shared, PME
+					Slot Number	2
+				Slot PCI-E
+					Slot Type	PCI-E
+					Slot Usage	In Use
+					Data lanes	x16
+					Slot Designation	J7B1
+					Characteristics	3.3V, Shared, PME
+					Slot Number	3
+Graphics
+		Monitor 1
+			Name	VS248 on AMD Radeon R7 Graphics + R7 200 Dual Graphics
+			Current Resolution	1920x1080 pixels
+			Work Resolution	1920x1040 pixels
+			State	Enabled, Output devices support
+			Multiple displays	Extended, Primary, Enabled
+			Monitor Width	1920
+			Monitor Height	1080
+			Monitor BPP	32 bits per pixel
+			Monitor Frequency	60 Hz
+			Device	\\.\DISPLAY1\Monitor0
+		Monitor 2
+			Name	L1951p Wide on AMD Radeon R7 Graphics + R7 200 Dual Graphics
+			Current Resolution	1440x900 pixels
+			Work Resolution	1440x860 pixels
+			State	Enabled, Output devices support
+			Multiple displays	Extended, Secondary, Enabled
+			Monitor Width	1440
+			Monitor Height	900
+			Monitor BPP	32 bits per pixel
+			Monitor Frequency	60 Hz
+			Device	\\.\DISPLAY2\Monitor0
+		ATI AMD Radeon(TM) R7 Graphics
+			Manufacturer	ATI
+			Model	AMD Radeon R7 Graphics
+			Device ID	1002-1313
+			Subvendor	Gigabyte (1458)
+			Current Performance Level	Level 0
+			Voltage	0.900 V
+			GPU Clock	720.0 MHz
+			Temperature	16 °C
+			Crossfire	Disabled
+			Driver version	15.300.1025.1001
+			Memory Type	DDR3
+			Memory	1024 MB
+			Bandwidth	25.6 GB/s
+				Count of performance levels : 1
+					Level 1 - "Perf Level 0"
+		ATI AMD Radeon R7 Graphics + R7 200 Dual Graphics
+			Manufacturer	ATI
+			Model	AMD Radeon R7 Graphics + R7 200 Dual Graphics
+			Device ID	1002-6610
+			Subvendor	MSI (1462)
+			Current Performance Level	Level 0
+			Voltage	0.900 V
+			GPU Clock	1100.0 MHz
+			Temperature	30 °C
+			Core Voltage	0.900 V
+			Crossfire	Disabled
+			Driver version	15.300.1025.1001
+			BIOS Version	xxx-xxx-xxx
+			Memory Type	DDR3
+			Memory	2048 MB
+			Bandwidth	28.8 GB/s
+				Count of performance levels : 2
+						Level 1 - "Perf Level 0"
+							GPU Clock	300 MHz
+							Shader Clock	300 MHz
+						Level 2 - "Perf Level 1"
+							GPU Clock	1100 MHz
+							Shader Clock	900 MHz
+Storage
+		Hard drives
+				TOSHIBA DT01ACA050
+					Manufacturer	TOSHIBA
+					Heads	16
+					Cylinders	60,801
+					Tracks	15,504,255
+					Sectors	976,768,065
+					SATA type	SATA-III 6.0Gb/s
+					Device type	Fixed
+					ATA Standard	ATA8-ACS
+					Serial Number	Z35HSXGBS
+					Firmware Version Number	MS1OA750
+					LBA Size	48-bit LBA
+					Power On Count	2486 times
+					Power On Time	245.3 days
+					Speed	7200 RPM
+					Features	S.M.A.R.T., APM, NCQ
+					Max. Transfer Mode	SATA III 6.0Gb/s
+					Used Transfer Mode	SATA III 6.0Gb/s
+					Interface	SATA
+					Capacity	465 GB
+					Real size	500,107,862,016 bytes
+					RAID Type	None
+						S.M.A.R.T
+							Status	Good
+							Temperature	35 °C
+							Temperature Range	OK (less than 50 °C)
+								S.M.A.R.T attributes
+										01
+											Attribute name	Read Error Rate
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	16
+											Raw Value	0000000000
+											Status	Good
+										02
+											Attribute name	Throughput Performance
+											Real value	74
+											Current	141
+											Worst	141
+											Threshold	54
+											Raw Value	000000004A
+											Status	Good
+										03
+											Attribute name	Spin-Up Time
+											Real value	12058800 ms
+											Current	127
+											Worst	127
+											Threshold	24
+											Raw Value	0000B800B0
+											Status	Good
+										04
+											Attribute name	Start/Stop Count
+											Real value	2,518
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	00000009D6
+											Status	Good
+										05
+											Attribute name	Reallocated Sectors Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	5
+											Raw Value	0000000000
+											Status	Good
+										07
+											Attribute name	Seek Error Rate
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	67
+											Raw Value	0000000000
+											Status	Good
+										08
+											Attribute name	Seek Time Performance
+											Real value	33
+											Current	118
+											Worst	118
+											Threshold	20
+											Raw Value	0000000021
+											Status	Good
+										09
+											Attribute name	Power-On Hours (POH)
+											Real value	245d 6h
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	00000016FE
+											Status	Good
+										0A
+											Attribute name	Spin Retry Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	60
+											Raw Value	0000000000
+											Status	Good
+										0C
+											Attribute name	Device Power Cycle Count
+											Real value	2,486
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	00000009B6
+											Status	Good
+										C0
+											Attribute name	Power-off Retract Count
+											Real value	2,519
+											Current	98
+											Worst	98
+											Threshold	0
+											Raw Value	00000009D7
+											Status	Good
+										C1
+											Attribute name	Load/Unload Cycle Count
+											Real value	2,519
+											Current	98
+											Worst	98
+											Threshold	0
+											Raw Value	00000009D7
+											Status	Good
+										C2
+											Attribute name	Temperature
+											Real value	35 °C
+											Current	171
+											Worst	171
+											Threshold	0
+											Raw Value	00000D0023
+											Status	Good
+										C4
+											Attribute name	Reallocation Event Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C5
+											Attribute name	Current Pending Sector Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C6
+											Attribute name	Uncorrectable Sector Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C7
+											Attribute name	UltraDMA CRC Error Count
+											Real value	0
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+						Partition 0
+							Partition ID	Disk #0, Partition #0
+							File System	NTFS
+							Volume Serial Number	AA223F5A
+							Size	449 MB
+							Used Space	302 MB (67%)
+							Free Space	147 MB (33%)
+						Partition 1
+							Partition ID	Disk #0, Partition #1
+							Size	100 MB
+						Partition 2
+							Partition ID	Disk #0, Partition #2
+							Disk Letter	C:
+							File System	NTFS
+							Volume Serial Number	EE2C44C2
+							Size	465 GB
+							Used Space	165 GB (35%)
+							Free Space	299 GB (65%)
+				KINGSTON SV300S37A120G
+					Manufacturer	Kingston
+					Product Family	SSDNow
+					Form Factor	2.5-inch
+					Heads	16
+					Cylinders	14,593
+					Tracks	3,721,215
+					Sectors	234,436,545
+					SATA type	SATA-III 6.0Gb/s
+					Device type	Fixed
+					ATA Standard	ATA8-ACS
+					Serial Number	50026B77490544E7
+					Firmware Version Number	541ABBF0
+					LBA Size	48-bit LBA
+					Power On Count	1480 times
+					Power On Time	117.3 days
+					Speed	Not used (SSD Drive)
+					Features	S.M.A.R.T., APM, NCQ, TRIM, SSD
+					Max. Transfer Mode	SATA III 6.0Gb/s
+					Used Transfer Mode	SATA III 6.0Gb/s
+					Interface	SATA-2
+					Capacity	111 GB
+					Real size	120,034,123,776 bytes
+					RAID Type	None
+						S.M.A.R.T
+							Status	Good
+							Temperature	28 °C
+							Temperature Range	OK (less than 50 °C)
+								S.M.A.R.T attributes
+										01
+											Attribute name	Read Error Rate
+											Real value	0
+											Current	95
+											Worst	95
+											Threshold	50
+											Raw Value	0000B028B6
+											Status	Good
+										05
+											Attribute name	Retired Block Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	3
+											Raw Value	0000000000
+											Status	Good
+										09
+											Attribute name	Power-On Hours (POH)
+											Real value	117d 7h
+											Current	97
+											Worst	97
+											Threshold	0
+											Raw Value	0000000AFF
+											Status	Good
+										0C
+											Attribute name	Device Power Cycle Count
+											Real value	1,480
+											Current	99
+											Worst	99
+											Threshold	0
+											Raw Value	00000005C8
+											Status	Good
+										AB
+											Attribute name	Program Fail Block Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										AC
+											Attribute name	Erase Fail Block Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										AE
+											Attribute name	Unexpected Power Loss
+											Real value	392
+											Current	0
+											Worst	0
+											Threshold	0
+											Raw Value	0000000188
+											Status	Good
+										B1
+											Attribute name	Wear Range Delta
+											Real value	1
+											Current	0
+											Worst	0
+											Threshold	0
+											Raw Value	0000000001
+											Status	Good
+										B5
+											Attribute name	Program Fail Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										B6
+											Attribute name	Erase Fail Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										BB
+											Attribute name	Reported Uncorrectable Errors
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										BD
+											Attribute name	High Fly Writes (WDC)
+											Real value	81,607,983,132
+											Current	28
+											Worst	55
+											Threshold	0
+											Raw Value	000037001C
+											Status	Good
+										C2
+											Attribute name	Temperature
+											Real value	28 °C
+											Current	28
+											Worst	55
+											Threshold	0
+											Raw Value	000037001C
+											Status	Good
+										C3
+											Attribute name	On the fly ECC Uncorrectable Error Count
+											Real value	11,544,758
+											Current	120
+											Worst	120
+											Threshold	0
+											Raw Value	0000B028B6
+											Status	Good
+										C4
+											Attribute name	Reallocation Event Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	3
+											Raw Value	0000000000
+											Status	Good
+										C9
+											Attribute name	Uncorrectable Soft Read Error Rate
+											Real value	11,544,758
+											Current	120
+											Worst	120
+											Threshold	0
+											Raw Value	0000B028B6
+											Status	Good
+										CC
+											Attribute name	Soft ECC Correction Rate
+											Real value	11,544,758
+											Current	120
+											Worst	120
+											Threshold	0
+											Raw Value	0000B028B6
+											Status	Good
+										E6
+											Attribute name	Life Curve Status
+											Real value	100
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000064
+											Status	Good
+										E7
+											Attribute name	SSD Life Left
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	10
+											Raw Value	0000000000
+											Status	Good
+										E9
+											Attribute name	Media Wearout Indicator
+											Real value	3,445
+											Current	0
+											Worst	0
+											Threshold	0
+											Raw Value	0000000D75
+											Status	Good
+										EA
+											Attribute name	Vendor Specific
+											Real value	5,036
+											Current	0
+											Worst	0
+											Threshold	0
+											Raw Value	00000013AC
+											Status	Good
+										F1
+											Attribute name	Lifetime Writes From Host
+											Real value	5,036
+											Current	0
+											Worst	0
+											Threshold	0
+											Raw Value	00000013AC
+											Status	Good
+										F2
+											Attribute name	Lifetime Reads from Host
+											Real value	4,854
+											Current	0
+											Worst	0
+											Threshold	0
+											Raw Value	00000012F6
+											Status	Good
+						Partition 0
+							Partition ID	Disk #1, Partition #0
+							Disk Letter	F:
+							File System	NTFS
+							Volume Serial Number	B99DC750
+							Size	111 GB
+							Used Space	71 GB (63%)
+							Free Space	40 GB (37%)
+				ST380815AS
+					Manufacturer	Seagate
+					Form Factor	3.5"
+					Heads	16
+					Cylinders	9,726
+					Tracks	2,480,130
+					Sectors	156,248,190
+					SATA type	SATA-II 3.0Gb/s
+					Device type	Fixed
+					ATA Standard	ATA/ATAPI-7
+					Serial Number	5RW52MPG
+					Firmware Version Number	4.ADA
+					LBA Size	48-bit LBA
+					Power On Count	7151 times
+					Power On Time	417.8 days
+					Features	S.M.A.R.T., AAM, NCQ
+					Max. Transfer Mode	SATA II 3.0Gb/s
+					Used Transfer Mode	SATA II 3.0Gb/s
+					Interface	SATA
+					Capacity	74 GB
+					Real size	80,000,000,000 bytes
+					RAID Type	None
+						S.M.A.R.T
+							Status	Good
+							Temperature	36 °C
+							Temperature Range	OK (less than 50 °C)
+								S.M.A.R.T attributes
+										01
+											Attribute name	Read Error Rate
+											Real value	0
+											Current	100
+											Worst	253
+											Threshold	6
+											Raw Value	0000000000
+											Status	Good
+										03
+											Attribute name	Spin-Up Time
+											Real value	0 ms
+											Current	98
+											Worst	97
+											Threshold	70
+											Raw Value	0000000000
+											Status	Good
+										04
+											Attribute name	Start/Stop Count
+											Real value	7,316
+											Current	93
+											Worst	93
+											Threshold	20
+											Raw Value	0000001C94
+											Status	Good
+										05
+											Attribute name	Reallocated Sectors Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	36
+											Raw Value	0000000000
+											Status	Good
+										07
+											Attribute name	Seek Error Rate
+											Real value	0
+											Current	83
+											Worst	60
+											Threshold	30
+											Raw Value	000C0B73DE
+											Status	Good
+										09
+											Attribute name	Power-On Hours (POH)
+											Real value	417d 20h
+											Current	89
+											Worst	89
+											Threshold	0
+											Raw Value	000000272C
+											Status	Good
+										0A
+											Attribute name	Spin Retry Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	97
+											Raw Value	0000000000
+											Status	Good
+										0C
+											Attribute name	Device Power Cycle Count
+											Real value	7,151
+											Current	94
+											Worst	94
+											Threshold	20
+											Raw Value	0000001BEF
+											Status	Good
+										BB
+											Attribute name	Reported Uncorrectable Errors
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										BD
+											Attribute name	High Fly Writes (WDC)
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										BE
+											Attribute name	Airflow Temperature
+											Real value	36 °C
+											Current	64
+											Worst	57
+											Threshold	45
+											Raw Value	0024160024
+											Status	Good
+										C2
+											Attribute name	Temperature
+											Real value	36 °C
+											Current	36
+											Worst	43
+											Threshold	0
+											Raw Value	0000000024
+											Status	Good
+										C3
+											Attribute name	Hardware ECC Recovered
+											Real value	0
+											Current	76
+											Worst	68
+											Threshold	0
+											Raw Value	00021149D4
+											Status	Good
+										C5
+											Attribute name	Current Pending Sector Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C6
+											Attribute name	Uncorrectable Sector Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C7
+											Attribute name	UltraDMA CRC Error Count
+											Real value	1
+											Current	200
+											Worst	200
+											Threshold	0
+											Raw Value	0000000001
+											Status	Good
+										C8
+											Attribute name	Write Error Rate / Multi-Zone Error Rate
+											Real value	0
+											Current	100
+											Worst	253
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										CA
+											Attribute name	Data Address Mark errors
+											Real value	0
+											Current	100
+											Worst	253
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+						Partition 0
+							Partition ID	Disk #2, Partition #0
+							Disk Letter	E:
+							File System	NTFS
+							Volume Serial Number	7005A0DC
+							Size	74 GB
+							Used Space	101 MB (0%)
+							Free Space	74 GB (100%)
+				TOSHIBA MQ01ABD050
+					Manufacturer	TOSHIBA
+					Heads	16
+					Cylinders	60,801
+					Tracks	15,504,255
+					Sectors	976,768,065
+					SATA type	SATA-II 3.0Gb/s
+					Device type	Fixed
+					ATA Standard	ATA8-ACS
+					Serial Number	32Q7F1X1S
+					Firmware Version Number	AX002M
+					LBA Size	48-bit LBA
+					Power On Count	5006 times
+					Power On Time	332.8 days
+					Speed	5400 RPM
+					Features	S.M.A.R.T., APM, NCQ
+					Max. Transfer Mode	SATA II 3.0Gb/s
+					Used Transfer Mode	SATA II 3.0Gb/s
+					Interface	SATA
+					Capacity	465 GB
+					Real size	500,107,862,016 bytes
+					RAID Type	None
+						S.M.A.R.T
+							Status	Good
+							Temperature	28 °C
+							Temperature Range	OK (less than 50 °C)
+								S.M.A.R.T attributes
+										01
+											Attribute name	Read Error Rate
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	50
+											Raw Value	0000000000
+											Status	Good
+										02
+											Attribute name	Throughput Performance
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	50
+											Raw Value	0000000000
+											Status	Good
+										03
+											Attribute name	Spin-Up Time
+											Real value	1030 ms
+											Current	100
+											Worst	100
+											Threshold	1
+											Raw Value	0000000406
+											Status	Good
+										04
+											Attribute name	Start/Stop Count
+											Real value	6,296
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000001898
+											Status	Good
+										05
+											Attribute name	Reallocated Sectors Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	50
+											Raw Value	0000000000
+											Status	Good
+										07
+											Attribute name	Seek Error Rate
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	50
+											Raw Value	0000000000
+											Status	Good
+										08
+											Attribute name	Seek Time Performance
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	50
+											Raw Value	0000000000
+											Status	Good
+										09
+											Attribute name	Power-On Hours (POH)
+											Real value	332d 20h
+											Current	81
+											Worst	81
+											Threshold	0
+											Raw Value	0000001F34
+											Status	Good
+										0A
+											Attribute name	Spin Retry Count
+											Real value	0
+											Current	225
+											Worst	100
+											Threshold	30
+											Raw Value	0000000000
+											Status	Good
+										0C
+											Attribute name	Device Power Cycle Count
+											Real value	5,006
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	000000138E
+											Status	Good
+										BF
+											Attribute name	G-sense error rate
+											Real value	1,642
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	000000066A
+											Status	Good
+										C0
+											Attribute name	Power-off Retract Count
+											Real value	271
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	000000010F
+											Status	Good
+										C1
+											Attribute name	Load/Unload Cycle Count
+											Real value	124,554
+											Current	88
+											Worst	88
+											Threshold	0
+											Raw Value	000001E68A
+											Status	Good
+										C2
+											Attribute name	Temperature
+											Real value	28 °C
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	00000B001C
+											Status	Good
+										C4
+											Attribute name	Reallocation Event Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C5
+											Attribute name	Current Pending Sector Count
+											Real value	208
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	00000000D0
+											Status	Good
+										C6
+											Attribute name	Uncorrectable Sector Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										C7
+											Attribute name	UltraDMA CRC Error Count
+											Real value	0
+											Current	200
+											Worst	253
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										DC
+											Attribute name	Disk Shift
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										DE
+											Attribute name	Loaded Hours
+											Real value	3,484
+											Current	92
+											Worst	92
+											Threshold	0
+											Raw Value	0000000D9C
+											Status	Good
+										DF
+											Attribute name	Load/Unload Retry Count
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										E0
+											Attribute name	Load Friction
+											Real value	0
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	0000000000
+											Status	Good
+										E2
+											Attribute name	Load 'In'-time
+											Real value	268
+											Current	100
+											Worst	100
+											Threshold	0
+											Raw Value	000000010C
+											Status	Good
+										F0
+											Attribute name	Head Flying Hours
+											Real value	0h
+											Current	100
+											Worst	100
+											Threshold	1
+											Raw Value	0000000000
+											Status	Good
+						Partition 0
+							Partition ID	Disk #3, Partition #0
+							Disk Letter	G:
+							File System	NTFS
+							Volume Serial Number	1EBFAE4C
+							Size	465 GB
+							Used Space	159 MB (0%)
+							Free Space	465 GB (100%)
+Optical Drives
+		ASUS DRW-24B1ST   a
+			Media Type	DVD Writer
+			Name	ASUS DRW-24B1ST a
+			Availability	Running/Full Power
+			Capabilities	Random Access, Supports Writing, Supports Removable Media
+			Read capabilities	CD-R, CD-RW, CD-ROM, DVD-RAM, DVD-ROM, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-R DL, DVD+R DL
+			Write capabilities	CD-R, CD-RW, DVD-RAM, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-R DL, DVD+R DL
+			Config Manager Error Code	Device is working properly
+			Config Manager User Config	FALSE
+			Drive	D:
+			Media Loaded	FALSE
+			SCSI Bus	7
+			SCSI Logical Unit	0
+			SCSI Port	0
+			SCSI Target Id	0
+			Status	OK
+Audio
+		Sound Cards
+			AMD High Definition Audio Device
+			Realtek High Definition Audio
+			AMD High Definition Audio Device
+		Playback Devices
+			Realtek Digital Output(Optical) (Realtek High Definition Audio)
+			Realtek Digital Output (Realtek High Definition Audio)
+			1 - VS248 (AMD High Definition Audio Device)
+			Speakers (Realtek High Definition Audio)	(default)
+		Recording Device
+			Microphone (Realtek High Definition Audio)
+Peripherals
+		HID Keyboard Device
+			Device Kind	Keyboard
+			Device Name	HID Keyboard Device
+			Vendor	Logitech
+			Location	Logitech Gaming Virtual Keyboard
+				Driver
+					Date	6-21-2006
+					Version	10.0.10586.0
+					File	C:\Windows\system32\DRIVERS\kbdhid.sys
+					File	C:\Windows\system32\DRIVERS\kbdclass.sys
+		HID Keyboard Device
+			Device Kind	Keyboard
+			Device Name	HID Keyboard Device
+			Vendor	ECHELON
+			Location	USB Input Device
+				Driver
+					Date	6-21-2006
+					Version	10.0.10586.0
+					File	C:\Windows\system32\DRIVERS\kbdhid.sys
+					File	C:\Windows\system32\DRIVERS\kbdclass.sys
+		HID Keyboard Device
+			Device Kind	Keyboard
+			Device Name	HID Keyboard Device
+			Vendor	Logitech
+			Location	USB Input Device
+				Driver
+					Date	6-21-2006
+					Version	10.0.10586.0
+					File	C:\Windows\system32\DRIVERS\kbdhid.sys
+					File	C:\Windows\system32\DRIVERS\kbdclass.sys
+		HID Keyboard Device
+			Device Kind	Keyboard
+			Device Name	HID Keyboard Device
+			Vendor	ECHELON
+			Location	USB Input Device
+				Driver
+					Date	6-21-2006
+					Version	10.0.10586.0
+					File	C:\Windows\system32\DRIVERS\kbdhid.sys
+					File	C:\Windows\system32\DRIVERS\kbdclass.sys
+		Standard PS/2 Keyboard
+			Device Kind	Keyboard
+			Device Name	Standard PS/2 Keyboard
+			Vendor	MSFT
+			Location	PCI standard ISA bridge
+				Driver
+					Date	6-21-2006
+					Version	10.0.10586.0
+					File	C:\Windows\system32\DRIVERS\i8042prt.sys
+					File	C:\Windows\system32\DRIVERS\kbdclass.sys
+		Logitech Optical Gaming Mouse G300/G300s
+			Device Kind	Mouse
+			Device Name	Logitech Optical Gaming Mouse G300/G300s
+			Vendor	Logitech
+			Location	USB Input Device
+				Driver
+					Date	9-24-2014
+					Version	8.57.0.0
+					File	C:\Windows\system32\DRIVERS\LGSHidFilt.Sys
+					File	C:\Windows\system32\DRIVERS\mouhid.sys
+					File	C:\Windows\system32\DRIVERS\mouclass.sys
+					File	C:\Windows\system32\LkmdfCoInst.dll
+		HID-compliant mouse
+			Device Kind	Mouse
+			Device Name	HID-compliant mouse
+			Vendor	ECHELON
+			Location	USB Input Device
+				Driver
+					Date	6-21-2006
+					Version	10.0.10586.0
+					File	C:\Windows\system32\DRIVERS\mouhid.sys
+					File	C:\Windows\system32\DRIVERS\mouclass.sys
+		HID-compliant mouse
+			Device Kind	Mouse
+			Device Name	HID-compliant mouse
+			Vendor	Logitech
+			Location	Logitech Gaming Virtual Mouse
+				Driver
+					Date	6-21-2006
+					Version	10.0.10586.0
+					File	C:\Windows\system32\DRIVERS\mouhid.sys
+					File	C:\Windows\system32\DRIVERS\mouclass.sys
+		Printers
+				\\DAD-THINK\HP Deskjet 1050 J410 series (Default Printer)
+					Share Name	HP Deskjet 1050 J410 series
+					Printer Port	USB001
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	600 * 300 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	HP Deskjet 1050 J410 series (v6.03)
+							Driver Path	C:\Windows\system32\spool\DRIVERS\x64\3\UNIDRV.DLL
+				Fax
+					Printer Port	SHRFAX:
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	200 * 200 dpi Monochrome
+					Status	Unknown
+						Driver
+							Driver Name	Microsoft Shared Fax Driver (v4.00)
+							Driver Path	C:\Windows\system32\spool\DRIVERS\x64\3\FXSDRV.DLL
+				Microsoft Print to PDF
+					Printer Port	PORTPROMPT:
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	600 * 600 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	Microsoft Print To PDF (v6.03)
+							Driver Path	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_f9853ae82ff0dda6\Amd64\mxdwdrv.dll
+				Microsoft XPS Document Writer
+					Printer Port	PORTPROMPT:
+					Print Processor	winprint
+					Availability	Always
+					Priority	1
+					Duplex	None
+					Print Quality	600 * 600 dpi Color
+					Status	Unknown
+						Driver
+							Driver Name	Microsoft XPS Document Writer v4 (v6.03)
+							Driver Path	C:\Windows\System32\DriverStore\FileRepository\ntprint.inf_amd64_f9853ae82ff0dda6\Amd64\mxdwdrv.dll
+Network
+	You are connected to the internet
+	Connected through	Intel PRO/1000 GT Desktop Adapter
+	IP Address	192.168.1.5
+	Subnet mask	255.255.255.0
+	Gateway server	192.168.1.1
+	Preferred DNS server	192.168.1.1
+	DHCP	Enabled
+	DHCP server	192.168.1.1
+	External IP Address	74.101.216.160
+	Adapter Type	Ethernet
+	NetBIOS over TCP/IP	Enabled via DHCP
+	NETBIOS Node Type	Hybrid node
+	Link Speed	0 Bps
+		Computer Name
+			NetBIOS Name	AUGUST-PC
+			DNS Name	August-pc
+			Membership	Part of workgroup
+			Workgroup	WORKGROUP
+		Remote Desktop
+			Disabled
+				Console
+					State	Active
+					Domain	AUGUST-PC
+				7A78855482A04FA781DC
+					State	Listen
+		WinInet Info
+			LAN Connection
+			Local system uses a local area network to connect to the Internet
+			Local system has RAS to connect to the Internet
+		Wi-Fi Info
+			Wi-Fi not enabled
+		WinHTTPInfo
+			WinHTTPSessionProxyType	No proxy
+			Session Proxy
+			Session Proxy Bypass
+			Connect Retries	5
+			Connect Timeout (ms)	60,000
+			HTTP Version	HTTP 1.1
+			Max Connects Per 1.0 Servers	INFINITE
+			Max Connects Per Servers	INFINITE
+			Max HTTP automatic redirects	10
+			Max HTTP status continue	10
+			Send Timeout (ms)	30,000
+			IEProxy Auto Detect	Yes
+			IEProxy Auto Config
+			IEProxy
+			IEProxy Bypass
+			Default Proxy Config Access Type	No proxy
+			Default Config Proxy
+			Default Config Proxy Bypass
+		Sharing and Discovery
+			Network Discovery	Enabled
+			File and Printer Sharing	Enabled
+			File and printer sharing service	Enabled
+			Simple File Sharing	Enabled
+			Administrative Shares	Enabled
+			Network access: Sharing and security model for local accounts	Classic - local users authenticate as themselves
+		Adapters List
+				Enabled
+						Intel(R) PRO/1000 GT Desktop Adapter
+							Connection-specific DNS Suffix	Workgroup
+							Connection Name	Ethernet 2
+							NetBIOS over TCPIP	Yes
+							DHCP enabled	Yes
+							MAC Address	90-E2-BA-5A-32-08
+							IP Address	192.168.1.5
+							Subnet mask	255.255.255.0
+							Gateway server	192.168.1.1
+							DHCP	192.168.1.1
+							DNS Server	192.168.1.1
+						Realtek PCIe GBE Family Controller
+							Connection-specific DNS Suffix	Workgroup
+							Connection Name	Ethernet
+							NetBIOS over TCPIP	Yes
+							DHCP enabled	Yes
+							MAC Address	74-D4-35-0E-66-FE
+							IP Address	192.168.1.4
+							Subnet mask	255.255.255.0
+							Gateway server	192.168.1.1
+							DHCP	192.168.1.1
+							DNS Server	192.168.1.1
+						VMware Virtual Ethernet Adapter for VMnet1
+							Connection Name	VMware Network Adapter VMnet1
+							NetBIOS over TCPIP	Yes
+							DHCP enabled	Yes
+							MAC Address	00-50-56-C0-00-01
+							IP Address	192.168.64.1
+							Subnet mask	255.255.255.0
+							DHCP	192.168.64.254
+						VMware Virtual Ethernet Adapter for VMnet8
+							Connection Name	VMware Network Adapter VMnet8
+							NetBIOS over TCPIP	Yes
+							DHCP enabled	Yes
+							MAC Address	00-50-56-C0-00-08
+							IP Address	192.168.152.1
+							Subnet mask	255.255.255.0
+							DHCP	192.168.152.254
+		Network Shares
+			Users	C:\Users
+		Current TCP Connections
+				C:\Program Files (x86)\Google\Chrome\Application\chrome.exe (9808)
+					Local 192.168.1.5:52261	ESTABLISHED Remote 199.59.148.85:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52278	ESTABLISHED Remote 173.194.204.95:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52280	ESTABLISHED Remote 216.58.219.238:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52027	ESTABLISHED Remote 63.117.14.22:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52304	ESTABLISHED Remote 199.27.76.143:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52305	ESTABLISHED Remote 199.27.76.143:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52306	ESTABLISHED Remote 199.27.76.143:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52307	ESTABLISHED Remote 199.27.76.143:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52308	ESTABLISHED Remote 199.27.76.143:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52332	ESTABLISHED Remote 185.96.94.210:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52335	ESTABLISHED Remote 104.88.91.94:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52337	ESTABLISHED Remote 50.31.164.173:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52376	ESTABLISHED Remote 74.125.226.175:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52038	ESTABLISHED Remote 216.58.219.238:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52386	ESTABLISHED Remote 173.194.123.68:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52387	ESTABLISHED Remote 50.97.40.233:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52388	ESTABLISHED Remote 104.88.91.17:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52390	ESTABLISHED Remote 74.125.22.154:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52052	ESTABLISHED Remote 50.31.164.173:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52053	ESTABLISHED Remote 50.31.164.173:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52056	ESTABLISHED Remote 216.58.219.238:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52397	ESTABLISHED Remote 23.235.39.64:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52398	ESTABLISHED Remote 77.234.44.70:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52400	ESTABLISHED Remote 31.13.71.7:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52401	ESTABLISHED Remote 169.54.33.170:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52403	ESTABLISHED Remote 31.13.71.36:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52405	ESTABLISHED Remote 54.240.190.61:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:50393	ESTABLISHED Remote 192.16.71.189:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52408	ESTABLISHED Remote 74.125.22.91:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:51979	ESTABLISHED Remote 216.58.219.238:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52380	ESTABLISHED Remote 198.232.125.83:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52070	ESTABLISHED Remote 173.194.205.95:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52080	ESTABLISHED Remote 23.235.46.193:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52081	ESTABLISHED Remote 23.235.46.193:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52115	ESTABLISHED Remote 23.235.46.175:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:62162	ESTABLISHED Remote 192.168.1.3:8009 (Querying... )
+					Local 192.168.1.5:62183	ESTABLISHED Remote 192.168.1.3:8008 (Querying... )
+					Local 192.168.1.5:52142	ESTABLISHED Remote 216.58.219.200:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52172	ESTABLISHED Remote 23.235.46.193:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52173	ESTABLISHED Remote 23.235.46.193:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:62296	ESTABLISHED Remote 173.194.204.188:5228 (Querying... )
+					Local 192.168.1.5:52174	ESTABLISHED Remote 23.235.46.193:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52222	ESTABLISHED Remote 104.88.86.26:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52224	ESTABLISHED Remote 63.117.14.214:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52249	ESTABLISHED Remote 199.59.149.233:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52410	ESTABLISHED Remote 23.4.187.27:80 (Querying... ) (HTTP)
+				C:\Program Files (x86)\Origin\Origin.exe (2932)
+					Local 127.0.0.1:3214	LISTEN
+					Local 127.0.0.1:3215	LISTEN
+					Local 192.168.1.5:49967	ESTABLISHED Remote 54.204.17.15:5222 (Querying... )
+					Local 192.168.1.5:49959	ESTABLISHED Remote 54.208.37.38:443 (Querying... ) (HTTPS)
+					Local 127.0.0.1:3217	LISTEN
+					Local 127.0.0.1:3216	LISTEN
+				C:\Program Files (x86)\Skype\Phone\Skype.exe (2816)
+					Local 0.0.0.0:443 (HTTPS)	LISTEN
+					Local 192.168.1.5:52413	ESTABLISHED Remote 65.54.167.21:50006 (Querying... )
+					Local 0.0.0.0:24125	LISTEN
+					Local 192.168.1.5:62295	ESTABLISHED Remote 91.190.217.43:12350 (Querying... )
+					Local 192.168.1.5:62297	ESTABLISHED Remote 104.208.232.56:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:24125	ESTABLISHED Remote 4.15.185.36:55809 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 24.244.29.48:41123 (Querying... )
+					Local 192.168.1.5:50247	ESTABLISHED Remote 134.170.0.200:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:24125	ESTABLISHED Remote 74.124.100.36:49219 (Querying... )
+					Local 0.0.0.0:80 (HTTP)	LISTEN
+					Local 192.168.1.5:24125	ESTABLISHED Remote 49.151.22.156:12062 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 68.49.174.156:51350 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 68.101.200.198:57555 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 68.101.200.198:57565 (Querying... )
+					Local 192.168.1.5:62058	ESTABLISHED Remote 64.4.23.143:40004 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 85.237.223.240:29859 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 91.11.93.46:45031 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 98.116.36.33:50051 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 98.116.36.33:55680 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 99.47.147.39:60784 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 104.173.17.50:60253 (Querying... )
+					Local 192.168.1.5:24125	ESTABLISHED Remote 218.101.110.159:36417 (Querying... )
+					Local 192.168.1.4:80 (HTTP)	ESTABLISHED Remote 216.239.166.226:39929 (Querying... )
+					Local 192.168.1.5:50259	ESTABLISHED Remote 65.52.108.74:443 (Querying... ) (HTTPS)
+					Local 192.168.1.4:80 (HTTP)	ESTABLISHED Remote 216.239.166.226:15709 (Querying... )
+					Local 192.168.1.5:52295	CLOSE-WAIT Remote 23.196.0.238:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52391	ESTABLISHED Remote 40.117.145.132:443 (Querying... ) (HTTPS)
+					Local 192.168.1.4:80 (HTTP)	ESTABLISHED Remote 216.239.166.226:58696 (Querying... )
+					Local 192.168.1.5:52412	ESTABLISHED Remote 65.54.167.21:50005 (Querying... )
+				C:\Program Files\Nefarius Software Solutions\ScpToolkit\ScpTrayApp.exe (5680)
+					Local 127.0.0.1:8085	LISTEN
+				C:\Users\augus\AppData\Roaming\Spotify\Spotify.exe (6120)
+					Local 0.0.0.0:57621	LISTEN
+					Local 127.0.0.1:4381	LISTEN
+					Local 192.168.1.5:62078	ESTABLISHED Remote 193.235.206.20:80 (Querying... ) (HTTP)
+					Local 127.0.0.1:4371	LISTEN
+				C:\Users\augus\AppData\Roaming\Spotify\SpotifyWebHelper.exe (8504)
+					Local 127.0.0.1:4380	LISTEN
+					Local 127.0.0.1:4370	LISTEN
+				C:\Windows\explorer.exe (2604)
+					Local 192.168.1.4:62166	ESTABLISHED Remote 65.52.108.200:443 (Querying... ) (HTTPS)
+				F:\MultiMC\MultiMC.exe (7852)
+					Local 192.168.1.5:51990	ESTABLISHED Remote 23.21.225.174:80 (Querying... ) (HTTP)
+				F:\steam\Steam.exe (9920)
+					Local 192.168.1.5:62121	ESTABLISHED Remote 208.78.164.9:27018 (Querying... )
+					Local 0.0.0.0:27036	LISTEN
+					Local 192.168.1.5:52417	ESTABLISHED Remote 23.62.236.27:80 (Querying... ) (HTTP)
+				HCLOUD.exe (8912)
+					Local 192.168.1.5:50992	ESTABLISHED Remote 210.80.76.162:80 (Querying... ) (HTTP)
+				lsass.exe (816)
+					Local 0.0.0.0:49668	LISTEN
+				ScpService.exe (5260)
+					Local 0.0.0.0:26760	LISTEN
+					Local 0.0.0.0:26761	LISTEN
+				services.exe (804)
+					Local 0.0.0.0:49772	LISTEN
+				spoolsv.exe (1756)
+					Local 192.168.1.5:62254	ESTABLISHED Remote 192.168.1.7:49161 (Querying... )
+					Local 192.168.1.5:62253	ESTABLISHED Remote 192.168.1.7:135 (Querying... ) (DCE)
+					Local 127.0.0.1:55987	ESTABLISHED Remote 127.0.0.1:135 (Querying... ) (DCE)
+					Local 0.0.0.0:49666	LISTEN
+				svchost.exe (548)
+					Local 0.0.0.0:49667	LISTEN
+				svchost.exe (960)
+					Local 0.0.0.0:135 (DCE)	LISTEN
+					Local 127.0.0.1:135 (DCE)	ESTABLISHED Remote 127.0.0.1:55987 (Querying... )
+				svchost.exe (988)
+					Local 0.0.0.0:49665	LISTEN
+				System Process
+					Local 192.168.1.4:80 (HTTP)	TIME-WAIT Remote 216.239.166.226:45895 (Querying... )
+					Local 192.168.1.4:80 (HTTP)	TIME-WAIT Remote 216.239.166.226:49736 (Querying... )
+					Local 192.168.1.5:52043	TIME-WAIT Remote 104.20.1.4:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52051	TIME-WAIT Remote 23.235.39.175:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52050	TIME-WAIT Remote 104.16.20.105:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52406	TIME-WAIT Remote 54.240.190.61:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:51987	TIME-WAIT Remote 23.193.204.212:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52393	TIME-WAIT Remote 23.96.212.225:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52392	TIME-WAIT Remote 54.225.142.41:80 (Querying... ) (HTTP)
+					Local 192.168.1.5:52058	TIME-WAIT Remote 63.117.14.54:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52057	TIME-WAIT Remote 74.125.22.91:443 (Querying... ) (HTTPS)
+					Local 192.168.1.5:52409	TIME-WAIT Remote 54.225.142.41:80 (Querying... ) (HTTP)
+				System Process
+					Local 127.0.0.1:8108	LISTEN
+					Local 192.168.1.5:8108	LISTEN
+					Local 192.168.152.1:8108	LISTEN
+					Local 0.0.0.0:445 (Windows shares)	LISTEN
+					Local 192.168.64.1:139 (NetBIOS session service)	LISTEN
+					Local 192.168.64.1:8108	LISTEN
+					Local 192.168.152.1:139 (NetBIOS session service)	LISTEN
+					Local 192.168.1.4:139 (NetBIOS session service)	LISTEN
+					Local 0.0.0.0:2869	LISTEN
+					Local 0.0.0.0:5357	LISTEN
+					Local 0.0.0.0:10243	LISTEN
+					Local 192.168.1.4:8108	LISTEN
+					Local 192.168.1.5:139 (NetBIOS session service)	LISTEN
+				TeamViewer_Service.exe (2684)
+					Local 127.0.0.1:5939	LISTEN
+					Local 127.0.0.1:62016	ESTABLISHED Remote 127.0.0.1:62017 (Querying... )
+					Local 127.0.0.1:62017	ESTABLISHED Remote 127.0.0.1:62016 (Querying... )
+				ubssrv_oc_only.exe (2712)
+					Local 0.0.0.0:1980	LISTEN
+				vmware-authd.exe (1532)
+					Local 0.0.0.0:902	LISTEN
+					Local 0.0.0.0:912	LISTEN
+				vmware-hostd.exe (10136)
+					Local 0.0.0.0:444	LISTEN
+					Local 127.0.0.1:55896	ESTABLISHED Remote 127.0.0.1:55895 (Querying... )
+					Local 127.0.0.1:55895	ESTABLISHED Remote 127.0.0.1:55896 (Querying... )
+					Local 127.0.0.1:8307	LISTEN
+				wininit.exe (680)
+					Local 0.0.0.0:49664	LISTEN
+				wmpnetwk.exe (9032)
+					Local 0.0.0.0:554	LISTEN
+Generated with Speccy v1.29.714
