@@ -16,21 +16,21 @@ social:
   linkedin: 
   instagram: 
   lastfm: 
-  rss: feed.xml
+  rss:
   steam: Hackerjeff
   twitter: august4577
   
 # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-73286308-1
 # Yandex metrika (https://metrica.yandex.com/) leave blanc to ignore or put true to use
-yandex_metrica:
+yandex_metrica: true
 
 
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
 disqus: 
-comments: false
+comments: true
 
 permalink: /:year/:month/:title
 
