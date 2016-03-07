@@ -1,4 +1,3 @@
-#!/bin/bash
 clear
 echo "welcome to Hacker systems, its safer here."
 echo "http://half-life.wikia.com/wiki/Breencast if you dont know the reference"
