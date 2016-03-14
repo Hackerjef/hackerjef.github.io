@@ -1,8 +1,4 @@
 ---
-published: true
----
-
----
 layout: post
 title: "FitnessGram™ Pacer Test"
 date: 2016-3-07 8:38:30
