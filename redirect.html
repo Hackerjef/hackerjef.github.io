@@ -13,7 +13,7 @@ return vars;
 var pageid = getUrlVars()["id"];
 // page id
 if (pageid === undefined || pageid === null) {
-     window.location="http://google.com"
+     window.location="/html/invalidshorturl.html"
      exit()
 }
 window.location="http://goo.gl/" + pageid;
