@@ -12,9 +12,8 @@ return vars;
 }
 var pageid = getUrlVars()["id"];
 // page id
-if(isset($_GET['id']) == "")
-{
-header('Location: /html/donate.html');
-exit; }
+if (variable === undefined || variable === null) {
+     window.location="http://google.com"
+}
 window.location="http://goo.gl/" + pageid;
 </script>
