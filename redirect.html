@@ -1,11 +1,16 @@
 <script>
-var uri = 'redirect.html';
-
-// while current location is 'baz.html?foo=1&a=b' for example
-uri =  document.location.search;
-var string = "he loves she";
-uri = string.trim("?");
-// prints "lov"
-// this will output 'foobar.html?foo=1&a=b'    
-alert(uri);
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var pageid = getUrlVars()["id"];
+// page id
+if (pageid === "undefined") {
+    window.location.href = '/html/invalidid.html'
+}
+alert(pageid)
+//window.location="http://goo.gl/" + pageid;
 </script>
