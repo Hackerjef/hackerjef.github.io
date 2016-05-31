@@ -3,7 +3,9 @@ var uri = 'redirect.html';
 
 // while current location is 'baz.html?foo=1&a=b' for example
 uri =  document.location.search;
-var uri = string.replace('?', '');
+var string = "he loves she";
+uri = string.trim("?");
+// prints "lov"
 // this will output 'foobar.html?foo=1&a=b'    
 alert(uri);
 </script>
