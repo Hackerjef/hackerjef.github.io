@@ -1,0 +1,211 @@
+0 - Bat
+1 - Bottle
+2 - Fire Axe
+3 - Kukri
+4 - Knife
+5 - Fists
+6 - Shovel
+7 - Wrench
+8 - Bonesaw
+9 - Engineer's Shotgun
+10 - Soldier's Shotgun
+11 - Heavy's Shotgun
+12 - Pyro's Shotgun
+13 - Scattergun
+14 - Sniper Rifle
+15 - Minigun
+16 - SMG
+17 - Syringe Gun
+18 - Rocket Launcher
+19 - Pipe Grenade Launcher
+20 - Sticky Bomb Launcher
+21 - Flamethrower
+22 - Engineer's Pistol
+23 - Scout's Pistol
+24 - Spy's Revolver
+25 - Builder PDA
+26 - Demolisher PDA
+27 - Disguise Kit PDA
+29 - Medigun
+30 - Cloak Watch
+35 - The Kritzkrieg
+36 - The Blutsauger
+37 - The Ubersaw
+38 - The Axtinguisher
+39 - The Flaregun
+40 - The Backburner
+41 - Natascha
+42 - Sandvich
+43 - The Killer Gloves Of Boxing
+44 - Sandman (Wooden Bat)
+45 - Force-A-Nature
+46 - Bonk! Atomic Punch
+56 - Huntsman
+57 - Razorback
+58 - Jarate
+59 - Dead Ringer
+60 - Cloak And Dagger
+61 - The Ambassador
+127 - The Direct Hit
+128 - The Equalizer
+129 - The Buff Banner
+130 - The Scottish Resistance
+131 - Chargin' Targe
+132 - The Eyelander
+133 - The Gunboats
+140 - The Wrangler
+141 - The Frontier Justice
+142 - The Gunslinger
+153 - Homewrecker
+154 - Pain Train
+155 - The Southern Hospitality
+159 - Dalokohs Bar
+160 - Lugermorph
+161 - Big Kill
+163 - Crit-a-Cola
+169 - Golden Wrench
+171 - Tribalman's Shiv
+172 - Scotsman's Skullcutter
+173 - Vita-saw
+214 - The Powerjack
+215 - The Degreaser
+220 - The Shortstop
+221 - The Holy Mackerel
+222 - Mad Milk
+224 - L'etranger
+225 - The Eternal Reward
+226 - The Battalion's Backup
+228 - The Black Box
+230 - The Sydney Sleeper
+232 - The Bushwacka
+237 - Rocket Jumper
+239 - The Gloves of Running Urgently
+264 - Frying Pan
+265 - Sticky Jumper
+266 - Horseless Headless Horsemann's Headtaker
+294 - Lugermorph from Poker Night
+297 - Enthusiast's Timepiece
+298 - Iron Curtain
+304 - Amputator
+305 - Crusader's Crossbow
+307 - Ullapool Caber
+308 - Loch-n-Load
+310 - Warrior's Spirit
+311 - Buffalo Steak Sandvich
+312 - Brass Beast
+317 - Candy Cane
+325 - Boston Basher
+326 - Backscratcher
+327 - Claidheamohmor
+329 - Jag
+331 - Fists of Steel
+348 - Sharpened Volcano Fragment
+349 - Sun on a Stick
+351 - Detonator
+354 - Concheror
+355 - Gunbai
+356 - Conniver's Kunai
+357 - Half-Zatoichi
+401 - Shahanshah
+402 - Bazaar Bargain
+404 - Persian Persuader
+405 - Ali Baba's Wee Booties
+406 - Splendid Screen
+411 - Quick-Fix
+412 - Overdose
+413 - Solemn Vow
+414 - Liberty Launcher
+415 - Reserve Shooter
+416 - Market Gardener
+423 - Saxxy
+424 - Tomislav
+425 - Family Business
+426 - Eviction Notice
+433 - Fishcake
+441 - Cow Mangler 5000
+442 - Righteous Bison
+444 - Mantreads
+447 - Disciplinary Action
+448 - Soda Popper
+449 - Winger
+450 - Atomizer
+452 - Three Rune Blade
+457 - Postal Pummeler
+460 - Enforcer
+461 - Big Earner
+466 - Maul
+474 - Conscientious Objector
+482 - Nessie's Nine-Iron
+513 - Original
+525 - Diamondback
+526 - Machina
+527 - Widowmaker
+528 - Short Circuit
+572 - Unarmed Combat
+574 - Wanga Prick
+587 - Apoco-Fists
+588 - Pomson 6000
+589 - Eureka Effect
+593 - Third Degree
+594 - Phlogistinator
+595 - Manmelter
+608 - Bootlegger
+609 - Scottish Handshake
+638 - Sharp Dresser
+648 - Wrap Assassin
+649 - Spy-cicle
+654 - Festive Minigun 2011
+656 - Holiday Punch
+658 - Festive Rocket Launcher 2011
+659 - Festive Flamethrower 2011
+660 - Festive Bat 2011
+661 - Festive Sticky Launcher 2011
+662 - Festive Wrench 2011
+663 - Festive Medigun 2011
+664 - Festive Sniper Rifle 2011
+665 - Festive Knife 2011
+669 - Festive Scattergun 2011
+727 - Black Rose
+9018 - Valve Rocket Launcher
+9020 - Valve Sticky Launcher
+9014 - Valve Sniper Rifle
+9013 - Valve Scattergun
+9021 - Valve Flamethrower
+9017 - Valve Syringe Gun
+9015 - Valve Minigun
+9024 - Valve Revolver
+9009 - Valve Engy Shotgun
+9029 - Valve Medigun
+2041 - Ludmila
+9027 - Spycrab PDA
+2061 - Fire Retardant Suit (still testing. It's a revolver that does no damage but proves some type of fire protection, currently set to not set you on fire if you are disguised)
+8018 - Rapidfire Valve Rocket Launcher (VERY CHEAP)
+7018 - Rapidfire Community Rocket Launcher (LESS SO, BUT STILL)
+8045 - what I can only call, "the derpFaN"
+9205 - Try it and find out. Let's just say it's Robin's, and actually exists now rather than in the past.
+
+BETA WEAPONS (the ones recently added to the TF2 Beta; technically Ludmila should go here but meh. Also NONE OF THESE MAY WORK, I DON'T KNOW.):
+19010 - Beta Pocket Rocket Launcher variant 1
+19011 - Beta Pocket Shotgun
+186 - Beta Quick-Fix
+19012 - Beta Split Equalizer 1
+19013 - Beta Split Equalizer 2
+19015 - Beta Sniper Rifle 1
+19016 - Beta Pocket Rocket Launcher variant 2
+19017 - Beta Pocket Rocket Launcher variant 3
+
+Custom Item Requests
+2129 - Pocket Protector (Battalion's Backup with different Rage mechanic: Build rage by gaining health from medics. Unleash Rage for minicrits, but buff causes inability to gain health from medics for duration of buff).
+2141 - The Texas Ten-Shot (Frontier Justice mod: 10 shots, damage buff for each consecutive shot, more max ammo, very slow reload, also has a domination symbol thing near its muzzle)
+2161 - Texan Love (Big Kill mod, but meant for engy secondary: Faster shooting and more accurate, hopefully can shoot sappers off buildings with a full clip, but slow reload and heals slower)
+2127 - Some special direct hit a friend requested: 2 shot clip, fast shots like the Direct Hit, extra damage like the DH, minicrits airborne targets like the DH, increased damage taken from bullets like the Pain Train
+2159 - A testing Dalokohs Bar weapon I added to see if I could make other classes have temporary +50 max health. It *sorta* works right, but it's more of a testing item, so avoid.
+2433 - Same as above, but for the Fishcake
+2228 - The Army of One: A special type of Black Box that I saw on a YouTube video (used the Direct Hit model in it http://www.youtube.com/watch?v=I0wg0PvP0zg#t=3m58s)
+2009 - A shotgun that uses the Frontier Justice Model but with normal attributes, since the normal shotguns are buggy. Primary Shotty.
+2193 - Fighter's Falcata. Faster fire rate, more damage, but -15 hp when you hit somebody.
+2171 - Khopesh Climber. Climb walls by whacking them! Thanks to Mecha the Slag.
+2197 - Rebel's Curse. It's a wrench. A glowy purple wrench. IT DISSOLVES THINGS.
+2058 - a Jar of Ants
+9266 - Horsemann's OP Headtaker- makes you like the Horsemann!
+5142 - Golden Gunslinger
