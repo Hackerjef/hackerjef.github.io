@@ -11,11 +11,9 @@ var pageid = getUrlVars()["id"];
 // If no id is entered, redirect to this page.
 if (pageid === makeshorturl) {
      window.location="/html/makeshorturl.html"
-     exit()
 }
 if (pageid === undefined || pageid === null) {
      window.location="/html/invalidshorturl.html"
-     exit()
 }
 // Imputes id from the url thats a google shorturlid and redirect the broser to google's shoturl service.
 window.location="http://goo.gl/" + pageid;
