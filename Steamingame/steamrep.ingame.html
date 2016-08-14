@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<script>
+// check for steamId= or any vars.
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var steamId = getUrlVars()["steamId"];
+window.location="https://steamrep.com/search?q=" + steamId;
+</script>

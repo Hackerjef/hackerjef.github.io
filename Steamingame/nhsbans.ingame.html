@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<script>
+// check for steamname= or any vars.
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var steamname = getUrlVars()["steamname"];
+window.location="http://bans.neonheightsservers.ca/index.php?p=banlist&searchText=" + steamname;
+</script>
