@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <script>
-// check for steamname= or any vars.
+// check for search= or any vars.
 function getUrlVars() {
 var vars = {};
 var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
@@ -8,6 +8,6 @@ vars[key] = value;
 });
 return vars;
 }
-var steamname = getUrlVars()["steamname"];
+var steamname = getUrlVars()["search"];
 window.location="http://bans.neonheightsservers.ca/index.php?p=banlist&searchText=" + steamname;
 </script>
