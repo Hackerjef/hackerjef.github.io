@@ -14,6 +14,7 @@
 
   <!-- Custom stuff -->
   <script src="/js/redirect.js"></script>
+  <script src="/js/textboxstuff.js"></script>
   <link rel="import" href="/html/flavacon.html">
   <link rel="stylesheet" href="/css/w3.css">
 
@@ -57,26 +58,31 @@
 <div class="w3-container w3-padding-xlarge"> </div>
 <!-- Serches -->
   <div class="w3-container">
-    <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="google" />
+    <input onblur="inputBlur(Google search)" class="w3-input w3-border w3-round w3-hover-red" type="text" id="google" />
     <input type="submit" value="submit" onclick="google();" />
   </div>
+
   <div class="w3-container">
-    <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="steamrep" />
+    <input onblur="inputBlur(Steamrep search)" class="w3-input w3-border w3-round w3-hover-red" type="text" id="steamrep" />
     <input type="submit" value="submit" onclick="steamrep();" />
   </div>
-  <div class="w3-container">
+
+  <div onblur="inputBlur(nhbans search)" class="w3-container">
     <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="nhsbans" />
     <input type="submit" value="submit" onclick="nhsbans();" />
   </div>
-  <div class="w3-container">
+
+  <div onblur="inputBlur(nhcomms search)" class="w3-container">
     <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="nhscomms" />
     <input type="submit" value="submit" onclick="nhscomms();" />
   </div>
-  <div class="w3-container">
+
+  <div onblur="inputBlur(steam search)" class="w3-container">
     <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="steam" />
     <input type="submit" value="submit" onclick="steam();" />
   </div>
-  <div class="w3-container">
+
+  <div onblur="inputBlur(youtube search)" class="w3-container">
     <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="youtube" />
     <input type="submit" value="submit" onclick="youtube();" />
   </div>
