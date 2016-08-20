@@ -15,8 +15,10 @@
   <!-- Custom stuff -->
   <script src="/js/redirect.js"></script>
   <script src="/js/textboxstuff.js"></script>
+  <script src="/js/onpageload.steamingame.js"></script>
   <link rel="import" href="/html/flavacon.html">
   <link rel="stylesheet" href="/css/w3.css">
+  <link rel="stylesheet" href="/css/placeholder.css">
 
 </head>
 <body class="w3-container w3-black">
@@ -58,35 +60,34 @@
 <div class="w3-container w3-padding-xlarge"> </div>
 <!-- Serches -->
   <div class="w3-container">
-    <input onblur="inputBlur(Google search)" class="w3-input w3-border w3-round w3-hover-red" type="text" id="google" />
-    <input type="submit" value="submit" onclick="google();" />
+    <input placeholder="google search" class="w3-input w3-border w3-round w3-hover-red" type="text" id="google" onkeypress="return googlesearchKeyPress(event);" />
+    <input type="submit" value="submit" id="googlebutton" onclick="google();" />
   </div>
 
   <div class="w3-container">
-    <input onblur="inputBlur(Steamrep search)" class="w3-input w3-border w3-round w3-hover-red" type="text" id="steamrep" />
-    <input type="submit" value="submit" onclick="steamrep();" />
+    <input placeholder="steamrep search" class="w3-input w3-border w3-round w3-hover-red" type="text" id="steamrep" onkeypress="return steamrepsearchKeyPress(event);" />
+    <input type="submit" value="submit" id="steamrepbutton" onclick="steamrep();" />
   </div>
 
-  <div onblur="inputBlur(nhbans search)" class="w3-container">
-    <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="nhsbans" />
-    <input type="submit" value="submit" onclick="nhsbans();" />
+  <div class="w3-container">
+    <input placeholder="nhsBans search" class="w3-input w3-border w3-round w3-hover-red" type="text" id="nhsbans" onkeypress="return nhsbanssearchKeyPress(event);" />
+    <input type="submit" value="submit" id="nhsbansbutton" onclick="nhsbans();" />
   </div>
 
-  <div onblur="inputBlur(nhcomms search)" class="w3-container">
-    <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="nhscomms" />
-    <input type="submit" value="submit" onclick="nhscomms();" />
+  <div class="w3-container">
+    <input placeholder="nhscomms search" class="w3-input w3-border w3-round w3-hover-red" type="text" id="nhscomms" onkeypress="return nhscommssearchKeyPress(event);" />
+    <input type="submit" value="submit" id="nhscommsbutton" onclick="nhscomms();" />
   </div>
 
-  <div onblur="inputBlur(steam search)" class="w3-container">
-    <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="steam" />
-    <input type="submit" value="submit" onclick="steam();" />
+  <div class="w3-container">
+    <input placeholder="steam search" class="w3-input w3-border w3-round w3-hover-red" type="text" id="steam" onkeypress="return steamsearchKeyPress(event);" />
+    <input type="submit" value="submit" id="steambutton" onclick="steam();" />
   </div>
 
-  <div onblur="inputBlur(youtube search)" class="w3-container">
-    <input class="w3-input w3-border w3-round w3-hover-red" type="text" id="youtube" />
-    <input type="submit" value="submit" onclick="youtube();" />
+  <div class="w3-container">
+    <input type=”text” class="w3-input w3-border w3-round w3-hover-red" placeholder="youtube search" id="youtube" onkeypress="return youtubesearchKeyPress(event);" />
+    <input type="submit" value="submit" id="youtubebutton" onclick="youtube();" />
   </div>
 
 </body>
-
 </html>
