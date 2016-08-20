@@ -1,3 +1,10 @@
+/*!
+ * redirect Thing by Hacker jeff
+ * http://hackerjef.github.io/
+ * <input type="text" id="(ID)" />
+ * <input type="submit" value="submit" onclick="goToPage();" />
+ */
+
 function google() {
     var google = document.getElementById('google').value;
     window.location = "https://www.google.com/search?q=" + google;
