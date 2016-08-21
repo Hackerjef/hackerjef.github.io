@@ -29,3 +29,7 @@ function youtube() {
     var youtube = document.getElementById('youtube').value;
     window.location = "https://www.youtube.com/results?search_query=" + youtube;
 }
+function reptf() {
+    var reptf = document.getElementById('reptf').value;
+    window.location = "https://rep.tf/" + reptf;
+}

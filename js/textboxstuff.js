@@ -87,3 +87,14 @@ function youtubesearchKeyPress(e)
     }
     return true;
 }
+function reptfsearchKeyPress(e)
+{
+    // look for window.event in case event isn't passed in
+    e = e || window.event;
+    if (e.keyCode == 13)
+    {
+        document.getElementById('reptfbutton').click();
+        return false;
+    }
+    return true;
+}
