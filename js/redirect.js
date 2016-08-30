@@ -33,3 +33,7 @@ function reptf() {
     var reptf = document.getElementById('reptf').value;
     window.location = "https://rep.tf/" + reptf;
 }
+function download() {
+    var download = document.getElementById('download').value;
+    window.location = "http://hackerjef.github.io/downloads.html" + download;
+}
