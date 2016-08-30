@@ -35,5 +35,5 @@ function reptf() {
 }
 function download() {
     var download = document.getElementById('download').value;
-    window.location = "http://hackerjef.github.io/downloads.html" + download;
+    window.location = "http://hackerjef.github.io/downloads.html";
 }
