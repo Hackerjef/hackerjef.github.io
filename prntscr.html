@@ -1,0 +1,20 @@
+<script src="/js/google-analytics.js"></script>
+<script>
+// check for Id= or any vars.
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var prntsc = getUrlVars()["id"];
+// If page id is makeshorturl goto makepage
+// If no id is entered, redirect to this page.
+if (prntsc === undefined || prntsc === null) {
+     window.location="/html/invalidshorturl.html"
+     exit()
+}
+
+window.location="http://prnt.sc/" + prntsc;
+</script>
