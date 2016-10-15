@@ -1,0 +1,15 @@
+<div class="profile_ban_status"> <div class="profile_ban"> 1 VAC ban(s) on record <span class="profile_ban_info">| <a class="whiteLink" href="http://steamcommunity.com/actions/WhatIsVAC">Info</a></span> </div> 0 day(s) since last ban </div>
+
+
+
+<iframe id="custom-frame" src="http://steamcommunity.com/id/Hackerjeff/" width="500" height="500"></iframe>
+
+
+<script src="/js/jquery.js"></script>   
+
+<script>
+    $(function() {
+        var iframeBody = $("#custom-frame").contents().find("body");
+        var styleTag = iframeBody.append($('#profile_ban_status'));
+    })
+</script>
