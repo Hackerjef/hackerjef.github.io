@@ -1,15 +1,44 @@
-<div class="profile_ban_status"> <div class="profile_ban"> 1 VAC ban(s) on record <span class="profile_ban_info">| <a class="whiteLink" href="http://steamcommunity.com/actions/WhatIsVAC">Info</a></span> </div> 0 day(s) since last ban </div>
+<html>
+    <head>
+    </head>
+<body>
+    <iframe id="test_iframe" src="http://steamcommunity.com/id/Hackerjeff/" width=400 height=400></iframe>
+</body>
 
+<script language="javascript">
+function injectHTML(){
 
+	//step 1: get the DOM object of the iframe.
+	var iframe = document.getElementById('test_iframe');
 
-<iframe id="custom-frame" src="http://steamcommunity.com/id/Hackerjeff/" width="500" height="500"></iframe>
+	var html_string = '<div class="profile_ban_status"> <div class="profile_ban"> 1 VAC ban(s) on record <span class="profile_ban_info">| <a class="whiteLink" href="http://steamcommunity.com/actions/WhatIsVAC">Info</a></span> </div> 0 day(s) since last ban </div>';
 
+	/* if jQuery is available, you may use the get(0) function to obtain the DOM object like this:
+	var iframe = $('iframe#target_iframe_id').get(0);
+	*/
 
-<script src="/js/jquery.js"></script>   
+	//step 2: obtain the document associated with the iframe tag
+	//most of the browser supports .document. Some supports (such as the NetScape series) .contentDocumet, while some (e.g. IE5/6) supports .contentWindow.document
+	//we try to read whatever that exists.
+	var iframedoc = iframe.document;
+		if (iframe.contentDocument)
+			iframedoc = iframe.contentDocument;
+		else if (iframe.contentWindow)
+			iframedoc = iframe.contentWindow.document;
 
-<script>
-    $(function() {
-        var iframeBody = $("#custom-frame").contents().find("body");
-        var styleTag = iframeBody.append($('#profile_ban_status'));
-    })
+	 if (iframedoc){
+		 // Put the content in the iframe
+		 iframedoc.open();
+		 iframedoc.writeln(html_string);
+		 iframedoc.close();
+	 } else {
+		//just in case of browsers that don't support the above 3 properties.
+		//fortunately we don't come across such case so far.
+		alert('Cannot inject dynamic contents into iframe.');
+	 }
+
+}
+
 </script>
+<script language="javascript">injectHTML()</script>
+</html>
