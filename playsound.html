@@ -2,7 +2,6 @@
 <script src="/audiojs/audio.min.js"></script>
 <script src="/js/google-analytics.js"></script>
 <script src="/js/redirect.js"></script>
-<script src="/js/textboxstuff.js"></script>
 <script src="/js/jquery.js"></script>
 <link rel="import" href="/html/flavacon.html">
 
@@ -25,9 +24,5 @@ var soundfile = '/sound/' + soundname;
   });
 </script>
 
-
-<script>
-$("div").html("<audio src='" + soundfile + "' ></audio>");
-</script>
-
-<div></div>
+<p><script type="text/javascript">document.write(soundfile)</script></p>
+<audio src=<script type="text/javascript">document.write(soundfile)</script> preload="auto" />
