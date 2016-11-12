@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<script src="/audiojs/audio.min.js"></script>
+<script src="/js/google-analytics.js"></script>
+
+
+<script>
+// check for Id= or any vars.
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var soundname = getUrlVars()["id"];
+var soundfile = '/sound/' + soundname;
+</script>
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
+
+<script>
+$("div").html("<audio src='" + soundfile + "' ></audio>");
+</script>
+
+<div></div>
