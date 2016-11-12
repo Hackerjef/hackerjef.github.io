@@ -14,8 +14,16 @@ vars[key] = value;
 });
 return vars;
 }
+
 var soundname = getUrlVars()["id"];
-var soundfile = '/sound/' + soundname;
+
+
+if (soundname === undefined || soundname === null) {
+     var soundname = "winxp_error.mp3"
+     exit()
+}
+
+document.getElementById("audioplayer").src = "sound/" + soundname + ".mp3";
 </script>
 
 <script>
@@ -24,5 +32,9 @@ var soundfile = '/sound/' + soundname;
   });
 </script>
 
-<p><script type="text/javascript">document.write(soundfile)</script></p>
-<audio src=<script type="text/javascript">document.write(soundfile)</script> preload="auto" />
+
+<audio 
+	src="" 
+	preload="auto" 
+	id="audioplayer"
+/>
