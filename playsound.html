@@ -17,13 +17,7 @@ return vars;
 
 var soundname = getUrlVars()["id"];
 
-
-if (soundname === undefined || soundname === null) {
-     var soundname = "winxp_error.mp3"
-     exit()
-}
-
-document.getElementById("audioplayer").src = "sound/" + soundname + ".mp3";
+document.getElementById("audioplayer").src ='"sound/" + soundname + ".mp3"';
 </script>
 
 <script>
@@ -37,4 +31,4 @@ document.getElementById("audioplayer").src = "sound/" + soundname + ".mp3";
 	src="sound/" 
 	preload="auto" 
 	id="audioplayer"
-/>w
+/>
