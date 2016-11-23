@@ -1,1 +1,43 @@
 This is a test
+<script src="/js/google-analytics.js"></script>
+<script>
+// check for Id= or any vars.
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var pageid = getUrlVars()["id"];
+// If page id is makeshorturl goto makepage
+if (pageid === "makeshorturl") {
+     window.location="/html/makeshorturl.html"
+     exit()
+}
+// If no id is entered, redirect to this page.
+if (pageid === undefined || pageid === null) {
+     window.location="/html/invalidshorturl.html"
+     exit()
+}
+if (pageid === "lenny") {
+     window.location="http://www.lennyfaces.net/"
+     exit()
+}
+     
+if (pageid === "teamviewer") {
+     window.location="https://download.teamviewer.com/download/TeamViewerQS_en.exe"
+     exit()
+}
+if (pageid === "github") {
+     window.location="https://github.com/Hackerjef/"
+     exit()
+}
+     
+if (pageid === "beemovie") {
+     window.location="http://hackerjef.github.io/Beemovie.txt"
+     exit()
+}
+// Imputes id from the url thats a google shorturlid and redirect the broser to google's shoturl service.
+window.location="http://goo.gl/" + pageid;
+</script>
