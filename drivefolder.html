@@ -1,0 +1,18 @@
+<script src="/js/google-analytics.js"></script>
+<script>
+// check for folder= or any vars.
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var folder = getUrlVars()["folder"];
+
+if (folder === undefined || folder === null) {
+     window.location="/html/invalidshorturl.html"
+     exit()
+}
+window.location="https://drive.google.com/drive/folders/" + folder + "?usp=sharing";
+</script>
