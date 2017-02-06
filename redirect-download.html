@@ -1,0 +1,21 @@
+<script src="/js/google-analytics.js"></script>
+<script>
+// check for Id= or any vars.
+function getUrlVars() {
+var vars = {};
+var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+vars[key] = value;
+});
+return vars;
+}
+var pageid = getUrlVars()["id"];
+
+// If no id is entered, redirect to this page.
+if (pageid === undefined || pageid === null) {
+     window.location="/html/invalidshorturl.html"
+     exit()
+}
+// Imputes id from the url thats a google shorturlid and redirect the broser to google's shoturl service.
+
+window.location="http://hackerjef.github.io/Downloads/" + pageid;
+</script>
