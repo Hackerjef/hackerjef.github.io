@@ -47,6 +47,12 @@ if (pageid === "beemovie") {
      window.location="http://hackerjef.github.io/Beemovie.txt"
      exit()
 }
+
+if (pageid === "doc") {
+     var docid = getUrlVars()["docid"];
+     window.location="https://docs.google.com/document/d/" + docid +"/edit";
+     exit()
+}
 // Imputes id from the url thats a google shorturlid and redirect the broser to google's shoturl service.
 window.location="http://goo.gl/" + pageid;
 </script>
