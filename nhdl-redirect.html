@@ -1,21 +1,33 @@
-<script src="/js/google-analytics.js"></script>
-
 <script>
-// check for Id= or any vars.
-function getUrlVars() {
-var vars = {};
-var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
-vars[key] = value;
-});
-return vars;
-}
-var pageid = getUrlVars()["id"];
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-// If no id is entered, redirect to this page.
-if (pageid === undefined || pageid === null) {
-     window.location="http://thebest404pageever.com"
-     exit()
-}
-// Imputes id from the url thats a google shorturlid and redirect the broser to google's shoturl service.
-window.location="https://mega.nz/" + pageid;
+	ga('create', 'UA-73286308-2', 'auto');
+	ga('send', 'pageview');
+	
+	// check for Id= or any vars.
+	function getUrlVars() {
+	var vars = {};
+	var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+	vars[key] = value;
+	});
+	return vars;
+	}
+	var pageid = getUrlVars()["id"];
+
+	// If no id is entered, redirect to this page.
+	if (pageid === undefined || pageid === null) {
+		window.location="http://thebest404pageever.com"
+		exit()
+	}
+	ga('send', {
+		hitType: 'event',
+		eventCategory: 'Downloadurl',
+		eventAction: 'sent',
+		eventLabel: pageid
+	});
+	// Imputes id from the url thats a google shorturlid and redirect the broser to google's shoturl service.
+	window.location="https://mega.nz/" + pageid;
 </script>
