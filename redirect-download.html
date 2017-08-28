@@ -17,5 +17,10 @@ if (pageid === undefined || pageid === null) {
 }
 // Imputes id from the url thats a google shorturlid and redirect the broser to google's shoturl service.
 
+if (pageid === "drive") {
+     var docid = getUrlVars()["docid"];
+     window.location="https://docs.google.com/file/d/" + driveid +"/view?usp=sharing";
+     exit()
+}
 window.location="http://hackerjef.github.io/Downloads/" + pageid;
 </script>
