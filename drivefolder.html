@@ -1,4 +1,3 @@
-<script src="/js/google-analytics.js"></script>
 <script>
 // check for folder= or any vars.
 function getUrlVars() {
@@ -11,8 +10,9 @@ return vars;
 var folder = getUrlVars()["folder"];
 
 if (folder === undefined || folder === null) {
-     window.location="/html/invalidshorturl.html"
+     window.location="https://404.augusthates.party"
      exit()
 }
+
 window.location="https://drive.google.com/drive/folders/" + folder + "?usp=sharing";
 </script>
