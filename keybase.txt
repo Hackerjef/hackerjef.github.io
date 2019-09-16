@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nadie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hackerjef.github.io
+  * I am nadie (https://keybase.io/nadie) on keybase.
+  * I have a public key ASC0HqBDZHiiqxojHpDMFwc5sXTU94ciR17j7wDrgDkCWwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209f528c86ddda36962ec9f73ba48f16ebf7022cf544a51e9a84d551595959422a0a",
+      "host": "keybase.io",
+      "kid": "0120b41ea0436478a2ab1a231e90cc170739b174d4f78722475ee3ef00eb8039025b0a",
+      "uid": "31f4440284e9e6a5b4ff8e5888fb4419",
+      "username": "nadie"
+    },
+    "merkle_root": {
+      "ctime": 1568649849,
+      "hash": "38e1cff10c794ecacef84378c75cc48c771560422225bf662ce6de0c4f40259b8fce9b3a9703774dce47ec96b93b2cdaa266e4139dd2b82a16c1f05773fd9b4a",
+      "hash_meta": "48ea15c85a94fa741ec1246bde380933a48fbf0c67e9a8dd779bc566f54ebcb2",
+      "seqno": 7474875
+    },
+    "service": {
+      "entropy": "THSNWltQ7836U6P5hSuwmOQr",
+      "hostname": "hackerjef.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568649861,
+  "expire_in": 504576000,
+  "prev": "6db9898263249c79da25f232ef36cbe863d58671bbaf52652f1e615be5aa76bb",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtB6gQ2R4oqsaIx6QzBcHObF01PeHIkde4+8A64A5AlsKp3BheWxvYWTESpcCGsQgbbmJgmMknHnaJfIy7zbL6GPVhnG7r1JlLx5hW+WqdrvEIAurqpJ9xX3GFULGrexrU6YzGIiAJa3q/xwr95ryLdEKAgHCo3NpZ8RA6WRcbknOToJ2HT/jVxAU/Ir8ZMQiGa3GfMBOdXTBckhFmHhvKsj3ZqOKwhM4nA+LIXwTTUrpuuElpOpnDeDDA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHc/jwXEf+dqWTNhHhoILv16ocjiplIW/68d1xqA0PgCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nadie
+
+==================================================================
